@@ -1,0 +1,61 @@
+{% extends "landing_base.html" %}
+{% block title %}
+Sign in - MyOKR
+{% endblock %}
+{% block content %}
+<!-- container -->
+<div class="container">
+    <ol class="breadcrumb">
+        <li><a href="/">Home</a></li>
+        <li class="active">User access</li>
+    </ol>
+    <div class="row">
+        <!-- Article main content -->
+        <article class="col-xs-12 maincontent">
+            <header class="page-header">
+                <h1 class="page-title">Sign in</h1>
+            </header>
+            {% for message in get_flashed_messages(with_categories=True) %}
+            <div class="alert alert-{{ message[0] }}">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                {{ message[1] }}
+            </div>
+            {% endfor %}
+            <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h3 class="thin text-center">Sign in to your account</h3>
+                        <p class="text-center text-muted">If you do not have an account, <a href="/signup">register</a> a new one for free. </p>
+                        <hr>
+                        <form method="post" action="/login">
+                            {{ form.hidden_tag() }}
+                            <div class="top-margin">
+                                <label>Username <span class="text-danger">*</span></label>
+                                {{ form.username(class="form-control", placeholder="6 to 15 characters", minlength=6, maxlength=15) }}
+                            </div>
+                            <div class="top-margin">
+                                <label>Password <span class="text-danger">*</span></label>
+                                {{ form.password(class="form-control", placeholder="8 to 80 characters", minlength=8, maxlength=80) }}
+                            </div>
+                            <div class="top-margin">
+                                <label>Remember me</label>
+                                {{ form.remember }}
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="col-lg-8">
+                                    <b><a href="/change">Change password</a></b>
+                                </div>
+                                <div class="col-lg-4 text-right">
+                                    <button class="btn btn-action" type="submit">Sign in</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- /Article -->
+    </div>
+</div> <!-- /container -->
+{% endblock %}

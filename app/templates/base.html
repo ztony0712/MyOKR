@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="author" content="Yimin Zhao">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{% block title %}{% endblock %}</title>
+    <!-- title icon -->
+    <link rel="shortcut icon" href="../static/images/MyOKR.png">
+    <!-- cdn for icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <!-- cdn for bootstrap 4.6 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <!-- cdn for circle css -->
+    <!-- <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css"> -->
+    <!-- My css file -->
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link rel="stylesheet" href="../static/css/timeline.css">
+    <link rel="stylesheet" href="../static/css/leftbar.css">
+    <link rel="stylesheet" href="../static/css/rightbar.css">
+    <link rel="stylesheet" href="../static/css/list.css">
+    <link rel="stylesheet" href="../static/css/create.css">
+    <link rel="stylesheet" href="../static/css/circle.css">
+    <link rel="stylesheet" href="../static/css/preloader.css">
+    {% block styles %}
+    {% endblock%}
+</head>
+
+<body>
+    
+    <!-- left nav -->
+    <div class="left_sidebar">
+        <div class="logo_content">
+            <div class="logo">
+                <div class="logo_name">My OKR</div>
+            </div>
+            <i class='bx bx-menu' id="btn"></i>
+        </div>
+        <ul class="nav_list">
+            <li>
+                <i class='bx bx-search'></i>
+                <input type="text" class="live-search-box" placeholder="Search Objective...">
+                <span class="tooltip">Search Objective</span>
+            </li>
+            <li>
+                <a href="/my_okr">
+                    <i class='bx bx-circle'></i>
+                    <span class="links_name">My OKR</span>
+                </a>
+                <span class="tooltip">My OKR</span>
+            </li>
+            <li>
+                <a href="/stream">
+                    <i class='bx bx-water'></i>
+                    <span class="links_name">Steam</span>
+                </a>
+                <span class="tooltip">Steam</span>
+            </li>
+            <li>
+                <a href="/join">
+                    <i class='bx bxs-contact'></i>
+                    <span class="links_name">Join Group</span>
+                </a>
+                <span class="tooltip">Join Group</span>
+            </li>
+            <li>
+                <a href="/create">
+                    <i class='bx bx-user-plus'></i>
+                    <span class="links_name">Create Group</span>
+                </a>
+                <span class="tooltip">Create Group</span>
+            </li>
+            <li>
+                <a href="/manage">
+                    <i class='bx bx-group'></i>
+                    <span class="links_name">Manage Group</span>
+                </a>
+                <span class="tooltip">Manage Group</span>
+            </li>
+        </ul>
+        <div class="content">
+            <div class="user">
+                <div class="user_details">
+                    <!-- <img src="images/profile.jpg" alt=""> -->
+                    <div class="name_job">
+                        <div class="name">{{ name }}</div>
+                        <div class="job">{{ email }}</div>
+                    </div>
+                </div>
+                <a href="/logout" class='bx bx-log-out' id="log_out"></a>
+            </div>
+        </div>
+    </div>
+    <div class="home_content">
+        <div class="page-content " id="content">
+            <div class="container pt-3">
+                {% for message in get_flashed_messages(with_categories=True) %}
+                <div class="alert alert-{{ message[0] }}">
+                    <button type="button" class="close" data-dismiss="alert">&times;</button>
+                    {{ message[1] }}
+                </div>
+                {% endfor %}
+                <div id="loading"><img src="../static/images/preloader.gif" alt=""/></div>
+                {% block content %}
+                {% endblock %}
+            </div>
+        </div>
+    </div>
+    <!-- file for jquery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" charset="utf-8"></script>
+    <!-- cdn for js to support bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+    <!-- cdn for ajax -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="../static/js/circle.js"></script>
+    <script type="text/javascript" src="../static/js/all.js"></script>
+</body>
+
+</html>

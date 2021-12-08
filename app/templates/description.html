@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% block title %} Edit item {% endblock %}
+{% block header %} Edit {% endblock %}
+{% block content %}
+<div class="list-group">
+    <form action="/okr_submit/{{ kr_id }}" method="post">
+        {{ okr_form.hidden_tag() }}
+        <!-- add title -->
+        <div class="sub-headline">
+            <i class="bi bi-bookmark-check"></i>
+            <label> Edit objective</label>
+            {{okr_form.title(class="form-control", placeholder="Input objective (Can't be blank! Within 50 characters)...", maxlength=50)}}
+        </div>
+        <br>
+        <!-- edit deadline -->
+        <div class="sub-headline">
+            <i class="bi bi-calendar-date"></i>
+            <label> Edit a deadline</label>
+            {{okr_form.date(class="form-control")}}
+        </div>
+        <br>
+        <!-- edit key result -->
+        <div class="sub-headline">
+            <i class="bi bi-bookmark-check"></i>
+            <label> Edit key result</label>
+            {{okr_form.dcp(class="form-control", placeholder="Input key result (Can't be blank! Within 50 characters)...", maxlength=50)}}
+        </div>
+        <br>
+        <!-- edit okr target -->
+        <div class="sub-headline">
+            <i class="bi bi-app-indicator"></i>
+            <label> Edit progress plan </label><br>
+            <small> (e.g. Assume you want to read a 100-page book in 10 days. Set the total to 100 and the step to 10. Every time you click the complete button, the total amount is subtracted by ten. The button would be marked as completed until the total amount reached zero.)
+            </small>
+            <br>
+            <!-- Limit input range 0-9 -->
+            <small> Set a finished amount </small>
+            {{okr_form.now(oninput="this.value = this.value.replace(/[^0-9]/g, '');", class="form-control",
+            placeholder="How much have you done?", maxlength=10)}}
+            <small> Set a total amount </small>
+            {{okr_form.total(oninput="this.value = this.value.replace(/[^0-9]/g, '');", class="form-control",
+            placeholder="What is the total amount of your work?", maxlength=10)}}
+            <small> Set a step</small>
+            {{okr_form.step(oninput="this.value = this.value.replace(/[^0-9]/g, '');", class="form-control",
+            placeholder="How much you want to finish each time?", maxlength=10)}}
+        </div>
+        <br>
+        <!-- edit urgnecy -->
+        <div class="sub-headline" >
+            <i class="bi bi-code-slash"></i>
+            <label> Select urgency</label>
+            {{okr_form.urgency(class="form-check", style="list-style-type:none")}}
+        </div>
+        <br>
+        <!-- edit note -->
+        <div class="form-group sub-headline">
+            <i class="bi bi-text-left"></i>
+            <label> Note </label>
+            {{okr_form.note(class="form-control", rows="5", placeholder="Input note of this key result (within 500 characters)...", maxlength=500)}}
+        </div>
+        <br>
+        <div class="mb-5">
+            <a class="btn btn-danger btn-wide" href="/my_okr">Cancel</a>
+            <button type="submit" class="btn btn-primary btn-wide">Submit</button>
+        </div>
+    </form>
+</div>
+{% endblock %}

@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+{% block title %} Todo App {% endblock %}
+{% block header %} My OKR {% endblock %}
+<!-- {% block styles %} -->
+<!-- <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="../static/css/circle.css">
+<script src="../static/js/circle.js"></script> -->
+<!-- {% endblock%} -->
+{% block content %}
+<h1>{{user_name}}</h1>
+<div class="row d-flex justify-content-center container m-0 p-0">
+    <div class="col-md-12 p-0">
+        <div class="card-hover-shadow-2x mb-3 card">
+            <div class="card-header-tab card-header">
+                <div class="card-header-title font-size-lg text-capitalize font-weight-normal"><i class='bx bx-list-ul'></i>&nbsp;Objective List</div>
+            </div>
+            <ul class=" list-group list-group-flush">
+                {% for obj in obj_list %}
+                <div id="{{ loop.index }}" class="specified">
+                    <div class="vertical-nav bg-white" id="sidebar">
+                        <!-- begin of sidebar -->
+                        <div class="card-header-tab card-header">
+                            <div class="card-header-title font-size-lg text-capitalize font-weight-normal"><b> Details of {{user_name}}</b></div>
+                        </div>
+                        <!-- key result list -->
+                        <div class="row d-flex justify-content-center container m-0 mb-5 p-0">
+                            <div class="col-md-12 p-0">
+                                <div class="card-hover-shadow-2x mb-3 card">
+                                    <!-- current objective -->
+                                    <div class="card-header-tab card-header">
+                                        <div class="card-header-title font-size-lg text-capitalize font-weight-normal"><i class='bx bx-lock'></i>&nbsp;{{ obj.title }}</div>
+                                    </div>
+                                    <div class="card-header-tab card-header">
+                                        <div class="card-header-title font-size-lg text-capitalize font-weight-normal"><i class='bx bx-key'></i>&nbsp;Key result Lists</div>
+                                    </div>
+                                    <ul class=" list-group list-group-flush">
+                                        {% for kr in obj.keyResults %}
+                                        <div class="list-group-item">
+                                            <!-- the most left vertical colorful bar -->
+                                            {% if kr.urgency == 'Keter' %}
+                                            <div class="todo-indicator bg-danger"></div>
+                                            {% elif kr.urgency == 'Euclid' %}
+                                            <div class="todo-indicator bg-warning"></div>
+                                            {% elif kr.urgency == 'Safe' %}
+                                            <div class="todo-indicator bg-success"></div>
+                                            {% else %}
+                                            <div class="todo-indicator bg-secondary"></div>
+                                            {% endif %}
+                                            <div class="widget-content p-0">
+                                                <div class="widget-content-wrapper">
+                                                    {% if kr.kr_per >= 1 %}
+                                                    <s class="widget-content-left">
+                                                        {{ kr.dcp }}
+                                                    </s>
+                                                    {% else %}
+                                                    <div class="widget-content-left">
+                                                        {{ kr.dcp }}
+                                                    </div>
+                                                    {% endif %}
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {% endfor %}
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- key result footer -->
+                        <footer class="widget-content p-0 mb-0 side-footer">
+                            <div class="widget-content-wrapper">
+                                <div class="widget-content-left"><a class="close "><i class='bx bx-chevron-right'></i></a></div>
+                            </div>
+                        </footer>
+                    </div>
+                </div>
+                <!-- objective list -->
+                <bottom id="{{ loop.index }}" type="button" class="button sidebarCollapse list-group-item">
+                    <!-- the most left vertical colorful bar -->
+                    <div class="todo-indicator bg-primary"></div>
+                    <div class="widget-content p-0">
+                        <div class="widget-content-wrapper">
+                            <div class="widget-content-left mr-2">
+                            </div>
+                            <div class="widget-content-left">
+                                <div class="widget-heading">{{obj.title }}
+                                    <!-- for right big status -->
+                                    <!-- <div class="badge badge-danger ml-2">Rejected</div> -->
+                                </div>
+                                <!-- for date -->
+                                <div class="widget-subheading"><i>{{obj.date}}</i></div>
+                            </div>
+                            <div class="widget-content-right">
+                                <div class="progress-bar position" data-percent="{{(obj.obj_per*100)|round}}"></div>
+                            </div>
+                        </div>
+                    </div>
+                </bottom>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% block title %} Group management {% endblock %}
+<!-- {% block styles %} -->
+<!-- <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="../static/css/circle.css">
+<script src="../static/js/circle.js"></script> -->
+<!-- {% endblock%} -->
+{% block content %}
+<h1>{{name}}</h1>
+<div class="row d-flex justify-content-center container m-0 p-0">
+    <div class="col-md-12 p-0">
+        <div class="card-hover-shadow-2x mb-3 card">
+            <div class="card-header-tab card-header">
+                <div class="card-header-title font-size-lg text-capitalize font-weight-normal"><i class='bx bx-category'></i>&nbsp;All Group List</div>
+            </div>
+            <ul class=" list-group list-group-flush">
+                {% for group in group_list %}
+                <div id="{{ loop.index }}" class="specified">
+                    <div class="vertical-nav bg-white" id="sidebar">
+                        <!-- begin of sidebar -->
+                        <div class="card-header-tab card-header">
+                            <div class="card-header-title font-size-lg text-capitalize font-weight-normal"><b>Details</b></div>
+                        </div>
+                        <!-- key result list -->
+                        <div class="row d-flex justify-content-center container m-0 mb-5 p-0">
+                            <div class="col-md-12 p-0">
+                                <div class="card-hover-shadow-2x mb-3 card">
+                                    <!-- current objective -->
+                                    <div class="card-header-tab card-header">
+                                        <div class="card-header-title font-size-lg text-capitalize font-weight-normal"><i class='bx bx-group'></i>&nbsp;{{ group.group_name }}</div>
+                                    </div>
+                                    <div class="card-header-tab card-header">
+                                        <div class="card-header-title font-size-lg text-capitalize font-weight-normal"><i class='bx bx-user-circle'></i>&nbsp;Member List</div>
+                                    </div>
+                                    <ul class=" list-group list-group-flush">
+                                        {% for member in group.members %}
+                                        <div class="list-group-item">
+                                            <!-- the most left vertical colorful bar -->
+                                            <div class="todo-indicator bg-info"></div>
+                                            <div class="widget-content p-0">
+                                                <div class="widget-content-wrapper">
+                                                    <div class="widget-heading">{{member.username }}
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- key result footer -->
+                        <footer class="widget-content p-0 mb-0 side-footer">
+                            <div class="widget-content-wrapper">
+                                <div class="widget-content-left"><a class="close "><i class='bx bx-chevron-right'></i></a></div>
+                            </div>
+                        </footer>
+                    </div>
+                </div>
+                <!-- objective list -->
+                <bottom id="{{ loop.index }}" type="button" class="button sidebarCollapse list-group-item">
+                    <!-- the most left vertical colorful bar -->
+                    <div class="todo-indicator bg-dark"></div>
+                    <div class="widget-content p-0">
+                        <div class="widget-content-wrapper">
+                            <div class="widget-content-left mr-2">
+                            </div>
+                            <div class="widget-content-left">
+                                {{ group.group_name }}
+                            </div>
+                            <div class="widget-content-right">
+                                <a href="/join_submit/{{ group.group_id }}">
+                                    <button type="button" class="btn trash">
+                                        <i class="bi bi-bookmark-check"></i>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </bottom>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}

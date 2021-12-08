@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %} Stream {% endblock %}
+{% block content %}
+<div class="timeline-container">
+    <div class="timeline">
+        <ul>
+            {% for obj in obj_list %}
+            <li>
+                <div class="timeline-content">
+                    <h3 class="date">
+                        {{obj.date}}
+                    </h3>
+                    <h1>{{obj.title}}</h1>
+                    {% for kr in obj.keyResults %}
+                    <p>{{kr.dcp}}</p>
+                    {% endfor %}
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endblock %}

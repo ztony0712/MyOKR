@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    overflow-x: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.alert {
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    z-index: 999;
+}
+
+.bi {
+    font-size: 20px;
+}
+
+.bx {
+    font-size: 20px;
+}
+
+.submit-okr {
+    padding: 10px;
+    background-color: #edf2fe;
+    border-radius: 15px;
+}
+
+
+.container-style {
+    background: #f3f5f6;
+    /*backdrop-filter: blur(15px);*/
+
+    padding: 40px;
+    margin: auto;
+
+}
+
+.btn-wide {
+    width: 75px;
+}

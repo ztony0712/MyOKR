@@ -1,0 +1,1152 @@
+[2021-12-08 17:01:01,177][views.py-logout:25][INFO][123145353797632] - logged out: ztony0712
+[2021-12-08 17:02:34,410][views.py-logout:25][INFO][123145371713536] - logged out: adore0712
+[2021-12-08 17:07:55,715][views.py-view_okr:138][INFO][123145402630144] - view ztony0712's OKR: adore0712
+[2021-12-08 17:27:54,945][views.py-view_okr:138][INFO][123145458544640] - view ztony0712's OKR: adore0712
+[2021-12-08 17:28:22,076][okr_function.py-add:30][INFO][123145458544640] - Add objective: adore0712
+[2021-12-08 17:28:22,077][okr_function.py-add:40][WARNING][123145458544640] - Failed to Add objective: adore0712
+[2021-12-08 17:28:32,015][okr_function.py-add:30][INFO][123145458544640] - Add objective: adore0712
+[2021-12-08 17:28:32,015][okr_function.py-add:40][WARNING][123145458544640] - Failed to Add objective: adore0712
+[2021-12-08 17:29:08,019][okr_function.py-add:30][INFO][123145537171456] - Add objective: adore0712
+[2021-12-08 17:29:30,955][okr_function.py-enrich:73][INFO][123145447817216] - Add Key Result: adore0712
+[2021-12-08 17:29:33,536][okr_function.py-delete_obj:135][WARNING][123145447817216] - Delete Objective: adore0712
+[2021-12-08 17:29:42,988][okr_function.py-enrich:73][INFO][123145447817216] - Add Key Result: adore0712
+[2021-12-08 17:29:45,321][okr_function.py-enrich:73][INFO][123145447817216] - Add Key Result: adore0712
+[2021-12-08 17:29:49,415][okr_function.py-delete_kr:112][WARNING][123145447817216] - Delete Key Result: adore0712
+[2021-12-08 17:29:52,615][okr_function.py-delete_obj:135][WARNING][123145447817216] - Delete Objective: adore0712
+[2021-12-08 17:44:10,288][views.py-logout:25][WARNING][123145447817216] - logged out: adore0712
+[2021-12-08 18:08:18,922][group_function.py-quit_submit:76][INFO][123145506082816] - Quit a group: ztony0712
+[2021-12-08 18:08:21,097][group_function.py-join_submit:48][INFO][123145506082816] - Join in a group: ztony0712
+[2021-12-08 18:09:49,114][group_function.py-quit_submit:76][WARNING][123145352757248] - Quit a group: ztony0712
+[2021-12-08 18:09:50,701][group_function.py-join_submit:48][INFO][123145352757248] - Join in a group: ztony0712
+[2021-12-08 19:57:13,411][views.py-logout:25][WARNING][123145314713600] - logged out: ztony0712
+[2021-12-08 20:11:10,940][login.py-signup:80][INFO][123145515991040] - Successful registration: 1140686961
+[2021-12-08 20:15:22,000][login.py-signup:85][ERROR][123145418625024] - Database error: sc19yz3
+[2021-12-08 20:16:28,597][login.py-login:33][WARNING][123145418625024] - Successful login: sc19yz3
+[2021-12-08 20:16:36,500][views.py-logout:25][WARNING][123145418625024] - logged out: sc19yz3
+[2021-12-08 20:18:55,192][login.py-signup:81][INFO][123145550442496] - Successful registration: ltony0712
+[2021-12-08 20:32:09,058][login.py-signup:81][INFO][4553745920] - Successful registration: ztony0712
+[2021-12-08 20:32:09,127][login.py-signup:81][INFO][4553745920] - Successful registration: ztony0712
+[2021-12-08 20:32:09,172][login.py-signup:81][INFO][4553745920] - Successful registration: ztony0712
+[2021-12-08 20:32:09,263][login.py-signup:81][INFO][4553745920] - Successful registration: ztony0712
+[2021-12-08 20:32:29,477][views.py-logout:25][WARNING][123145555349504] - logged out: ltony0712
+[2021-12-08 20:33:07,540][login.py-signup:81][INFO][4604245504] - Successful registration: ztony0712
+[2021-12-08 20:33:07,604][login.py-signup:81][INFO][4604245504] - Successful registration: ztony0712
+[2021-12-08 20:33:07,669][login.py-signup:81][INFO][4604245504] - Successful registration: ztony0712
+[2021-12-08 20:33:07,786][login.py-signup:81][INFO][4604245504] - Successful registration: ztony0712
+[2021-12-08 20:33:27,739][login.py-signup:81][INFO][4564149760] - Successful registration: ztony0712
+[2021-12-08 20:33:27,804][login.py-signup:81][INFO][4564149760] - Successful registration: ztony0712
+[2021-12-08 20:33:27,854][login.py-signup:81][INFO][4564149760] - Successful registration: ztony0712
+[2021-12-08 20:33:27,946][login.py-signup:81][INFO][4564149760] - Successful registration: ztony0712
+[2021-12-08 20:34:32,175][login.py-signup:81][INFO][4754535936] - Successful registration: ztony0712
+[2021-12-08 20:34:32,238][login.py-signup:81][INFO][4754535936] - Successful registration: ztony0712
+[2021-12-08 20:34:32,283][login.py-signup:81][INFO][4754535936] - Successful registration: ztony0712
+[2021-12-08 20:34:32,402][login.py-signup:81][INFO][4754535936] - Successful registration: ztony0712
+[2021-12-08 20:35:08,202][login.py-signup:81][INFO][4414133760] - Successful registration: ztony0712
+[2021-12-08 20:35:08,268][login.py-signup:81][INFO][4414133760] - Successful registration: ztony0712
+[2021-12-08 20:35:08,318][login.py-signup:81][INFO][4414133760] - Successful registration: ztony0712
+[2021-12-08 20:35:08,410][login.py-signup:81][INFO][4414133760] - Successful registration: ztony0712
+[2021-12-08 20:36:37,038][login.py-signup:81][INFO][4508239360] - Successful registration: ztony0712
+[2021-12-08 20:36:37,118][login.py-signup:81][INFO][4508239360] - Successful registration: ztony0712
+[2021-12-08 20:36:37,180][login.py-signup:81][INFO][4508239360] - Successful registration: ztony0712
+[2021-12-08 20:36:37,291][login.py-signup:81][INFO][4508239360] - Successful registration: ztony0712
+[2021-12-08 20:39:02,553][login.py-signup:81][INFO][4675089920] - Successful registration: ztony0712
+[2021-12-08 20:39:02,638][login.py-signup:81][INFO][4675089920] - Successful registration: ztony0712
+[2021-12-08 20:39:02,704][login.py-signup:81][INFO][4675089920] - Successful registration: ztony0712
+[2021-12-08 20:39:02,791][login.py-signup:81][INFO][4675089920] - Successful registration: ztony0712
+[2021-12-08 20:45:10,880][login.py-signup:81][INFO][4441060864] - Successful registration: ztony0712
+[2021-12-08 20:45:10,949][login.py-signup:81][INFO][4441060864] - Successful registration: ztony0712
+[2021-12-08 20:45:11,006][login.py-signup:81][INFO][4441060864] - Successful registration: ztony0712
+[2021-12-08 20:45:11,110][login.py-signup:81][INFO][4441060864] - Successful registration: ztony0712
+[2021-12-08 20:45:26,755][login.py-signup:81][INFO][4723463680] - Successful registration: ztony0712
+[2021-12-08 20:45:26,824][login.py-signup:81][INFO][4723463680] - Successful registration: ztony0712
+[2021-12-08 20:45:26,903][login.py-signup:81][INFO][4723463680] - Successful registration: ztony0712
+[2021-12-08 20:45:26,984][login.py-signup:81][INFO][4723463680] - Successful registration: ztony0712
+[2021-12-08 20:46:30,251][login.py-signup:81][INFO][4532749824] - Successful registration: ztony0712
+[2021-12-08 20:46:30,318][login.py-signup:81][INFO][4532749824] - Successful registration: ztony0712
+[2021-12-08 20:46:30,371][login.py-signup:81][INFO][4532749824] - Successful registration: ztony0712
+[2021-12-08 20:46:30,455][login.py-signup:81][INFO][4532749824] - Successful registration: ztony0712
+[2021-12-08 20:48:09,067][login.py-signup:81][INFO][4343424512] - Successful registration: ztony0712
+[2021-12-08 20:48:09,150][login.py-signup:81][INFO][4343424512] - Successful registration: ztony0712
+[2021-12-08 20:48:09,226][login.py-signup:81][INFO][4343424512] - Successful registration: ztony0712
+[2021-12-08 20:48:09,332][login.py-signup:81][INFO][4343424512] - Successful registration: ztony0712
+[2021-12-08 20:49:02,588][login.py-login:33][WARNING][123145342550016] - Successful login: adore0712
+[2021-12-08 20:49:06,824][views.py-logout:25][WARNING][123145342550016] - logged out: adore0712
+[2021-12-08 20:52:11,881][login.py-signup:81][INFO][4611261952] - Successful registration: ztony0712
+[2021-12-08 20:52:11,966][login.py-signup:81][INFO][4611261952] - Successful registration: ztony0712
+[2021-12-08 20:52:12,035][login.py-signup:81][INFO][4611261952] - Successful registration: ztony0712
+[2021-12-08 20:52:12,185][login.py-signup:81][INFO][4611261952] - Successful registration: ztony0712
+[2021-12-08 20:58:59,077][login.py-signup:81][INFO][4681360896] - Successful registration: ztony0712
+[2021-12-08 20:58:59,143][login.py-signup:81][INFO][4681360896] - Successful registration: ztony0712
+[2021-12-08 20:58:59,215][login.py-signup:81][INFO][4681360896] - Successful registration: ztony0712
+[2021-12-08 20:58:59,294][login.py-signup:81][INFO][4681360896] - Successful registration: ztony0712
+[2021-12-08 20:58:59,319][login.py-signup:81][INFO][4681360896] - Successful registration: ztony0712
+[2021-12-08 21:00:41,244][login.py-login:33][WARNING][123145512222720] - Successful login: ztony0712
+[2021-12-08 21:00:43,522][views.py-logout:25][WARNING][123145512222720] - logged out: ztony0712
+[2021-12-08 21:01:08,040][login.py-signup:81][INFO][4561810944] - Successful registration: ztony0712
+[2021-12-08 21:01:08,131][login.py-signup:81][INFO][4561810944] - Successful registration: ztony0712
+[2021-12-08 21:01:08,223][login.py-signup:81][INFO][4561810944] - Successful registration: ztony0712
+[2021-12-08 21:01:08,337][login.py-signup:81][INFO][4561810944] - Successful registration: ztony0712
+[2021-12-08 21:01:08,348][views.py-logout:25][WARNING][4561810944] - logged out: ztony0712
+[2021-12-08 21:01:08,367][login.py-signup:81][INFO][4561810944] - Successful registration: ztony0712
+[2021-12-08 21:02:06,355][login.py-signup:81][INFO][4584416768] - Successful registration: ztony0712
+[2021-12-08 21:02:06,425][login.py-signup:81][INFO][4584416768] - Successful registration: ztony0712
+[2021-12-08 21:02:06,505][login.py-signup:81][INFO][4584416768] - Successful registration: ztony0712
+[2021-12-08 21:02:06,624][login.py-signup:81][INFO][4584416768] - Successful registration: ztony0712
+[2021-12-08 21:02:06,635][views.py-logout:25][WARNING][4584416768] - logged out: ztony0712
+[2021-12-08 21:02:06,660][login.py-signup:81][INFO][4584416768] - Successful registration: ztony0712
+[2021-12-08 21:02:47,504][login.py-signup:81][INFO][4580185600] - Successful registration: ztony0712
+[2021-12-08 21:02:47,569][login.py-signup:81][INFO][4580185600] - Successful registration: ztony0712
+[2021-12-08 21:02:47,622][login.py-signup:81][INFO][4580185600] - Successful registration: ztony0712
+[2021-12-08 21:02:47,711][login.py-signup:81][INFO][4580185600] - Successful registration: ztony0712
+[2021-12-08 21:02:47,723][views.py-logout:25][WARNING][4580185600] - logged out: ztony0712
+[2021-12-08 21:02:47,750][login.py-signup:81][INFO][4580185600] - Successful registration: ztony0712
+[2021-12-08 21:03:10,518][login.py-signup:81][INFO][4521412096] - Successful registration: ztony0712
+[2021-12-08 21:03:10,609][login.py-signup:81][INFO][4521412096] - Successful registration: ztony0712
+[2021-12-08 21:03:10,662][login.py-signup:81][INFO][4521412096] - Successful registration: ztony0712
+[2021-12-08 21:03:10,739][login.py-signup:81][INFO][4521412096] - Successful registration: ztony0712
+[2021-12-08 21:03:10,749][views.py-logout:25][WARNING][4521412096] - logged out: ztony0712
+[2021-12-08 21:03:10,771][login.py-signup:81][INFO][4521412096] - Successful registration: ztony0712
+[2021-12-08 21:04:41,237][login.py-signup:81][INFO][4640871936] - Successful registration: ztony0712
+[2021-12-08 21:04:41,318][login.py-signup:81][INFO][4640871936] - Successful registration: ztony0712
+[2021-12-08 21:04:41,368][login.py-signup:81][INFO][4640871936] - Successful registration: ztony0712
+[2021-12-08 21:04:41,463][login.py-signup:81][INFO][4640871936] - Successful registration: ztony0712
+[2021-12-08 21:04:41,474][views.py-logout:25][WARNING][4640871936] - logged out: ztony0712
+[2021-12-08 21:04:41,496][login.py-signup:81][INFO][4640871936] - Successful registration: ztony0712
+[2021-12-08 21:05:02,334][login.py-signup:81][INFO][4393686528] - Successful registration: ztony0712
+[2021-12-08 21:05:02,425][login.py-signup:81][INFO][4393686528] - Successful registration: ztony0712
+[2021-12-08 21:05:02,512][login.py-signup:81][INFO][4393686528] - Successful registration: ztony0712
+[2021-12-08 21:05:02,627][login.py-signup:81][INFO][4393686528] - Successful registration: ztony0712
+[2021-12-08 21:05:02,638][views.py-logout:25][WARNING][4393686528] - logged out: ztony0712
+[2021-12-08 21:05:02,667][login.py-signup:81][INFO][4393686528] - Successful registration: ztony0712
+[2021-12-08 21:06:27,273][login.py-signup:81][INFO][4428613120] - Successful registration: ztony0712
+[2021-12-08 21:06:27,345][login.py-signup:81][INFO][4428613120] - Successful registration: ztony0712
+[2021-12-08 21:06:27,355][views.py-logout:25][WARNING][4428613120] - logged out: ztony0712
+[2021-12-08 21:06:27,408][login.py-signup:81][INFO][4428613120] - Successful registration: ztony0712
+[2021-12-08 21:06:27,516][login.py-signup:81][INFO][4428613120] - Successful registration: ztony0712
+[2021-12-08 21:06:27,524][views.py-logout:25][WARNING][4428613120] - logged out: ztony0712
+[2021-12-08 21:06:27,540][login.py-signup:81][INFO][4428613120] - Successful registration: ztony0712
+[2021-12-08 21:06:55,759][login.py-signup:81][INFO][4694001152] - Successful registration: ztony0712
+[2021-12-08 21:06:55,798][views.py-logout:25][WARNING][4694001152] - logged out: ztony0712
+[2021-12-08 21:06:55,831][login.py-signup:81][INFO][4694001152] - Successful registration: ztony0712
+[2021-12-08 21:06:55,840][views.py-logout:25][WARNING][4694001152] - logged out: ztony0712
+[2021-12-08 21:06:55,873][login.py-signup:81][INFO][4694001152] - Successful registration: ztony0712
+[2021-12-08 21:06:55,883][views.py-logout:25][WARNING][4694001152] - logged out: ztony0712
+[2021-12-08 21:06:55,887][login.py-login:33][WARNING][4694001152] - Successful login: ztony0712
+[2021-12-08 21:06:55,957][login.py-signup:81][INFO][4694001152] - Successful registration: ztony0712
+[2021-12-08 21:06:55,968][views.py-logout:25][WARNING][4694001152] - logged out: ztony0712
+[2021-12-08 21:06:55,988][login.py-signup:81][INFO][4694001152] - Successful registration: ztony0712
+[2021-12-08 21:07:29,542][login.py-signup:81][INFO][4512855552] - Successful registration: ztony0712
+[2021-12-08 21:07:29,578][views.py-logout:25][WARNING][4512855552] - logged out: ztony0712
+[2021-12-08 21:07:29,611][login.py-signup:81][INFO][4512855552] - Successful registration: ztony0712
+[2021-12-08 21:07:29,619][views.py-logout:25][WARNING][4512855552] - logged out: ztony0712
+[2021-12-08 21:07:29,652][login.py-signup:81][INFO][4512855552] - Successful registration: ztony0712
+[2021-12-08 21:07:29,663][views.py-logout:25][WARNING][4512855552] - logged out: ztony0712
+[2021-12-08 21:07:29,668][login.py-login:33][WARNING][4512855552] - Successful login: ztony0712
+[2021-12-08 21:07:29,740][login.py-signup:81][INFO][4512855552] - Successful registration: ztony0712
+[2021-12-08 21:07:29,749][views.py-logout:25][WARNING][4512855552] - logged out: ztony0712
+[2021-12-08 21:07:29,771][login.py-signup:81][INFO][4512855552] - Successful registration: ztony0712
+[2021-12-08 21:07:59,436][login.py-signup:81][INFO][4698637824] - Successful registration: ztony0712
+[2021-12-08 21:07:59,475][views.py-logout:25][WARNING][4698637824] - logged out: ztony0712
+[2021-12-08 21:07:59,513][login.py-signup:81][INFO][4698637824] - Successful registration: ztony0712
+[2021-12-08 21:07:59,528][views.py-logout:25][WARNING][4698637824] - logged out: ztony0712
+[2021-12-08 21:07:59,575][login.py-signup:81][INFO][4698637824] - Successful registration: ztony0712
+[2021-12-08 21:07:59,587][views.py-logout:25][WARNING][4698637824] - logged out: ztony0712
+[2021-12-08 21:07:59,591][login.py-login:33][WARNING][4698637824] - Successful login: ztony0712
+[2021-12-08 21:07:59,689][login.py-signup:81][INFO][4698637824] - Successful registration: ztony0712
+[2021-12-08 21:07:59,702][views.py-logout:25][WARNING][4698637824] - logged out: ztony0712
+[2021-12-08 21:07:59,726][login.py-signup:81][INFO][4698637824] - Successful registration: ztony0712
+[2021-12-08 21:08:44,448][login.py-signup:81][INFO][4681172480] - Successful registration: ztony0712
+[2021-12-08 21:08:44,484][views.py-logout:25][WARNING][4681172480] - logged out: ztony0712
+[2021-12-08 21:08:44,520][login.py-signup:81][INFO][4681172480] - Successful registration: ztony0712
+[2021-12-08 21:08:44,528][views.py-logout:25][WARNING][4681172480] - logged out: ztony0712
+[2021-12-08 21:08:44,577][login.py-signup:81][INFO][4681172480] - Successful registration: ztony0712
+[2021-12-08 21:08:44,595][views.py-logout:25][WARNING][4681172480] - logged out: ztony0712
+[2021-12-08 21:08:44,616][login.py-login:33][WARNING][4681172480] - Successful login: ztony0712
+[2021-12-08 21:08:44,679][login.py-signup:81][INFO][4681172480] - Successful registration: ztony0712
+[2021-12-08 21:08:44,687][views.py-logout:25][WARNING][4681172480] - logged out: ztony0712
+[2021-12-08 21:08:44,705][login.py-signup:81][INFO][4681172480] - Successful registration: ztony0712
+[2021-12-08 21:09:10,876][login.py-signup:81][INFO][4465923584] - Successful registration: ztony0712
+[2021-12-08 21:09:10,922][views.py-logout:25][WARNING][4465923584] - logged out: ztony0712
+[2021-12-08 21:09:10,968][login.py-signup:81][INFO][4465923584] - Successful registration: ztony0712
+[2021-12-08 21:09:10,977][views.py-logout:25][WARNING][4465923584] - logged out: ztony0712
+[2021-12-08 21:09:11,060][login.py-signup:81][INFO][4465923584] - Successful registration: ztony0712
+[2021-12-08 21:09:11,071][views.py-logout:25][WARNING][4465923584] - logged out: ztony0712
+[2021-12-08 21:09:11,088][login.py-login:33][WARNING][4465923584] - Successful login: ztony0712
+[2021-12-08 21:09:11,167][login.py-signup:81][INFO][4465923584] - Successful registration: ztony0712
+[2021-12-08 21:09:11,177][views.py-logout:25][WARNING][4465923584] - logged out: ztony0712
+[2021-12-08 21:09:11,193][login.py-signup:81][INFO][4465923584] - Successful registration: ztony0712
+[2021-12-08 21:09:21,562][login.py-signup:81][INFO][4575512064] - Successful registration: ztony0712
+[2021-12-08 21:09:21,601][views.py-logout:25][WARNING][4575512064] - logged out: ztony0712
+[2021-12-08 21:09:21,635][login.py-signup:81][INFO][4575512064] - Successful registration: ztony0712
+[2021-12-08 21:09:21,646][views.py-logout:25][WARNING][4575512064] - logged out: ztony0712
+[2021-12-08 21:09:21,683][login.py-signup:81][INFO][4575512064] - Successful registration: ztony0712
+[2021-12-08 21:09:21,696][views.py-logout:25][WARNING][4575512064] - logged out: ztony0712
+[2021-12-08 21:09:21,711][login.py-login:33][WARNING][4575512064] - Successful login: ztony0712
+[2021-12-08 21:09:21,789][login.py-signup:81][INFO][4575512064] - Successful registration: ztony0712
+[2021-12-08 21:09:21,799][views.py-logout:25][WARNING][4575512064] - logged out: ztony0712
+[2021-12-08 21:09:21,822][login.py-signup:81][INFO][4575512064] - Successful registration: ztony0712
+[2021-12-08 21:10:37,867][login.py-signup:81][INFO][4541134336] - Successful registration: ztony0712
+[2021-12-08 21:10:37,918][views.py-logout:25][WARNING][4541134336] - logged out: ztony0712
+[2021-12-08 21:10:37,960][login.py-signup:81][INFO][4541134336] - Successful registration: ztony0712
+[2021-12-08 21:10:37,969][views.py-logout:25][WARNING][4541134336] - logged out: ztony0712
+[2021-12-08 21:10:38,029][login.py-signup:81][INFO][4541134336] - Successful registration: ztony0712
+[2021-12-08 21:10:38,042][views.py-logout:25][WARNING][4541134336] - logged out: ztony0712
+[2021-12-08 21:10:38,057][login.py-login:33][WARNING][4541134336] - Successful login: ztony0712
+[2021-12-08 21:10:38,134][login.py-signup:81][INFO][4541134336] - Successful registration: ztony0712
+[2021-12-08 21:10:38,146][views.py-logout:25][WARNING][4541134336] - logged out: ztony0712
+[2021-12-08 21:10:38,171][login.py-signup:81][INFO][4541134336] - Successful registration: ztony0712
+[2021-12-08 21:11:03,235][login.py-signup:81][INFO][4423927296] - Successful registration: ztony0712
+[2021-12-08 21:11:03,277][views.py-logout:25][WARNING][4423927296] - logged out: ztony0712
+[2021-12-08 21:11:03,313][login.py-signup:81][INFO][4423927296] - Successful registration: ztony0712
+[2021-12-08 21:11:03,323][views.py-logout:25][WARNING][4423927296] - logged out: ztony0712
+[2021-12-08 21:11:03,371][login.py-signup:81][INFO][4423927296] - Successful registration: ztony0712
+[2021-12-08 21:11:03,391][views.py-logout:25][WARNING][4423927296] - logged out: ztony0712
+[2021-12-08 21:11:03,404][login.py-login:33][WARNING][4423927296] - Successful login: ztony0712
+[2021-12-08 21:11:03,477][login.py-signup:81][INFO][4423927296] - Successful registration: ztony0712
+[2021-12-08 21:11:03,487][views.py-logout:25][WARNING][4423927296] - logged out: ztony0712
+[2021-12-08 21:11:03,507][login.py-signup:81][INFO][4423927296] - Successful registration: ztony0712
+[2021-12-08 21:11:30,017][login.py-signup:81][INFO][4663969280] - Successful registration: ztony0712
+[2021-12-08 21:11:30,055][views.py-logout:25][WARNING][4663969280] - logged out: ztony0712
+[2021-12-08 21:11:30,096][login.py-signup:81][INFO][4663969280] - Successful registration: ztony0712
+[2021-12-08 21:11:30,106][views.py-logout:25][WARNING][4663969280] - logged out: ztony0712
+[2021-12-08 21:11:30,156][login.py-signup:81][INFO][4663969280] - Successful registration: ztony0712
+[2021-12-08 21:11:30,165][views.py-logout:25][WARNING][4663969280] - logged out: ztony0712
+[2021-12-08 21:11:30,177][login.py-login:33][WARNING][4663969280] - Successful login: ztony0712
+[2021-12-08 21:11:30,258][login.py-signup:81][INFO][4663969280] - Successful registration: ztony0712
+[2021-12-08 21:11:30,268][views.py-logout:25][WARNING][4663969280] - logged out: ztony0712
+[2021-12-08 21:11:30,285][login.py-signup:81][INFO][4663969280] - Successful registration: ztony0712
+[2021-12-08 21:12:16,122][login.py-signup:81][INFO][4588942848] - Successful registration: ztony0712
+[2021-12-08 21:12:16,167][views.py-logout:25][WARNING][4588942848] - logged out: ztony0712
+[2021-12-08 21:12:16,211][login.py-signup:81][INFO][4588942848] - Successful registration: ztony0712
+[2021-12-08 21:12:16,223][views.py-logout:25][WARNING][4588942848] - logged out: ztony0712
+[2021-12-08 21:12:16,259][login.py-signup:81][INFO][4588942848] - Successful registration: ztony0712
+[2021-12-08 21:12:16,271][views.py-logout:25][WARNING][4588942848] - logged out: ztony0712
+[2021-12-08 21:12:16,324][login.py-signup:81][INFO][4588942848] - Successful registration: ztony0712
+[2021-12-08 21:12:16,332][views.py-logout:25][WARNING][4588942848] - logged out: ztony0712
+[2021-12-08 21:12:16,338][login.py-login:33][WARNING][4588942848] - Successful login: ztony0712
+[2021-12-08 21:12:16,413][login.py-signup:81][INFO][4588942848] - Successful registration: ztony0712
+[2021-12-08 21:12:16,423][views.py-logout:25][WARNING][4588942848] - logged out: ztony0712
+[2021-12-08 21:12:16,440][login.py-signup:81][INFO][4588942848] - Successful registration: ztony0712
+[2021-12-08 21:12:36,760][login.py-signup:81][INFO][4749145600] - Successful registration: ztony0712
+[2021-12-08 21:12:36,796][views.py-logout:25][WARNING][4749145600] - logged out: ztony0712
+[2021-12-08 21:12:36,835][login.py-signup:81][INFO][4749145600] - Successful registration: ztony0712
+[2021-12-08 21:12:36,845][views.py-logout:25][WARNING][4749145600] - logged out: ztony0712
+[2021-12-08 21:12:36,879][login.py-signup:81][INFO][4749145600] - Successful registration: ztony0712
+[2021-12-08 21:12:36,892][views.py-logout:25][WARNING][4749145600] - logged out: ztony0712
+[2021-12-08 21:12:36,897][login.py-login:37][WARNING][4749145600] - Incorrect password: ztony0712
+[2021-12-08 21:12:36,953][login.py-signup:81][INFO][4749145600] - Successful registration: ztony0712
+[2021-12-08 21:12:36,964][views.py-logout:25][WARNING][4749145600] - logged out: ztony0712
+[2021-12-08 21:12:36,971][login.py-login:33][WARNING][4749145600] - Successful login: ztony0712
+[2021-12-08 21:12:37,053][login.py-signup:81][INFO][4749145600] - Successful registration: ztony0712
+[2021-12-08 21:12:37,061][views.py-logout:25][WARNING][4749145600] - logged out: ztony0712
+[2021-12-08 21:12:37,078][login.py-signup:81][INFO][4749145600] - Successful registration: ztony0712
+[2021-12-08 21:13:14,826][login.py-signup:81][INFO][4652811776] - Successful registration: ztony0712
+[2021-12-08 21:13:14,865][views.py-logout:25][WARNING][4652811776] - logged out: ztony0712
+[2021-12-08 21:13:14,897][login.py-signup:81][INFO][4652811776] - Successful registration: ztony0712
+[2021-12-08 21:13:14,905][views.py-logout:25][WARNING][4652811776] - logged out: ztony0712
+[2021-12-08 21:13:14,926][login.py-signup:81][INFO][4652811776] - Successful registration: ztony0712
+[2021-12-08 21:13:14,934][views.py-logout:25][WARNING][4652811776] - logged out: ztony0712
+[2021-12-08 21:13:14,938][login.py-login:37][WARNING][4652811776] - Incorrect password: ztony0712
+[2021-12-08 21:13:14,973][login.py-signup:81][INFO][4652811776] - Successful registration: ztony0712
+[2021-12-08 21:13:14,983][views.py-logout:25][WARNING][4652811776] - logged out: ztony0712
+[2021-12-08 21:13:14,989][login.py-login:33][WARNING][4652811776] - Successful login: ztony0712
+[2021-12-08 21:13:15,057][login.py-signup:81][INFO][4652811776] - Successful registration: ztony0712
+[2021-12-08 21:13:15,069][views.py-logout:25][WARNING][4652811776] - logged out: ztony0712
+[2021-12-08 21:13:15,086][login.py-signup:81][INFO][4652811776] - Successful registration: ztony0712
+[2021-12-08 21:14:50,354][login.py-signup:81][INFO][4353324544] - Successful registration: ztony0712
+[2021-12-08 21:14:50,416][login.py-signup:81][INFO][4353324544] - Successful registration: ztony0712
+[2021-12-08 21:14:50,425][views.py-logout:25][WARNING][4353324544] - logged out: ztony0712
+[2021-12-08 21:14:50,458][login.py-signup:81][INFO][4353324544] - Successful registration: ztony0712
+[2021-12-08 21:14:50,468][views.py-logout:25][WARNING][4353324544] - logged out: ztony0712
+[2021-12-08 21:14:50,486][login.py-signup:81][INFO][4353324544] - Successful registration: ztony0712
+[2021-12-08 21:14:50,498][views.py-logout:25][WARNING][4353324544] - logged out: ztony0712
+[2021-12-08 21:14:50,505][login.py-login:37][WARNING][4353324544] - Incorrect password: ztony0712
+[2021-12-08 21:14:50,568][login.py-signup:81][INFO][4353324544] - Successful registration: ztony0712
+[2021-12-08 21:14:50,596][views.py-logout:25][WARNING][4353324544] - logged out: ztony0712
+[2021-12-08 21:14:50,607][login.py-login:33][WARNING][4353324544] - Successful login: ztony0712
+[2021-12-08 21:14:50,712][login.py-signup:81][INFO][4353324544] - Successful registration: ztony0712
+[2021-12-08 21:14:50,723][views.py-logout:25][WARNING][4353324544] - logged out: ztony0712
+[2021-12-08 21:14:50,744][login.py-signup:81][INFO][4353324544] - Successful registration: ztony0712
+[2021-12-08 21:19:28,996][login.py-signup:81][INFO][4528113152] - Successful registration: ztony0712
+[2021-12-08 21:19:29,063][login.py-signup:81][INFO][4528113152] - Successful registration: ztony0712
+[2021-12-08 21:19:29,095][login.py-signup:81][INFO][4528113152] - Successful registration: ztony0712
+[2021-12-08 21:19:29,104][views.py-logout:25][WARNING][4528113152] - logged out: ztony0712
+[2021-12-08 21:19:29,139][login.py-signup:81][INFO][4528113152] - Successful registration: ztony0712
+[2021-12-08 21:19:29,148][views.py-logout:25][WARNING][4528113152] - logged out: ztony0712
+[2021-12-08 21:19:29,169][login.py-signup:81][INFO][4528113152] - Successful registration: ztony0712
+[2021-12-08 21:19:29,177][views.py-logout:25][WARNING][4528113152] - logged out: ztony0712
+[2021-12-08 21:19:29,181][login.py-login:37][WARNING][4528113152] - Incorrect password: ztony0712
+[2021-12-08 21:19:29,222][login.py-signup:81][INFO][4528113152] - Successful registration: ztony0712
+[2021-12-08 21:19:29,230][views.py-logout:25][WARNING][4528113152] - logged out: ztony0712
+[2021-12-08 21:19:29,236][login.py-login:33][WARNING][4528113152] - Successful login: ztony0712
+[2021-12-08 21:19:29,306][login.py-signup:81][INFO][4528113152] - Successful registration: ztony0712
+[2021-12-08 21:19:29,315][views.py-logout:25][WARNING][4528113152] - logged out: ztony0712
+[2021-12-08 21:19:29,332][login.py-signup:81][INFO][4528113152] - Successful registration: ztony0712
+[2021-12-08 21:21:19,814][login.py-signup:81][INFO][4531324416] - Successful registration: ztony0712
+[2021-12-08 21:21:19,880][login.py-signup:81][INFO][4531324416] - Successful registration: ztony0712
+[2021-12-08 21:21:19,934][login.py-signup:81][INFO][4531324416] - Successful registration: ztony0712
+[2021-12-08 21:21:19,955][views.py-logout:25][WARNING][4531324416] - logged out: ztony0712
+[2021-12-08 21:21:20,006][login.py-signup:81][INFO][4531324416] - Successful registration: ztony0712
+[2021-12-08 21:21:20,015][views.py-logout:25][WARNING][4531324416] - logged out: ztony0712
+[2021-12-08 21:21:20,035][login.py-signup:81][INFO][4531324416] - Successful registration: ztony0712
+[2021-12-08 21:21:20,044][views.py-logout:25][WARNING][4531324416] - logged out: ztony0712
+[2021-12-08 21:21:20,049][login.py-login:37][WARNING][4531324416] - Incorrect password: ztony0712
+[2021-12-08 21:21:20,086][login.py-signup:81][INFO][4531324416] - Successful registration: ztony0712
+[2021-12-08 21:21:20,095][views.py-logout:25][WARNING][4531324416] - logged out: ztony0712
+[2021-12-08 21:21:20,101][login.py-login:33][WARNING][4531324416] - Successful login: ztony0712
+[2021-12-08 21:21:20,175][login.py-signup:81][INFO][4531324416] - Successful registration: ztony0712
+[2021-12-08 21:21:20,187][views.py-logout:25][WARNING][4531324416] - logged out: ztony0712
+[2021-12-08 21:21:20,216][login.py-signup:81][INFO][4531324416] - Successful registration: ztony0712
+[2021-12-08 21:22:46,216][login.py-signup:81][INFO][4628928000] - Successful registration: ztony0712
+[2021-12-08 21:22:46,284][login.py-signup:81][INFO][4628928000] - Successful registration: ztony0712
+[2021-12-08 21:22:46,331][login.py-signup:81][INFO][4628928000] - Successful registration: ztony0712
+[2021-12-08 21:22:46,351][views.py-logout:25][WARNING][4628928000] - logged out: ztony0712
+[2021-12-08 21:22:46,391][login.py-signup:81][INFO][4628928000] - Successful registration: ztony0712
+[2021-12-08 21:22:46,400][views.py-logout:25][WARNING][4628928000] - logged out: ztony0712
+[2021-12-08 21:22:46,423][login.py-signup:81][INFO][4628928000] - Successful registration: ztony0712
+[2021-12-08 21:22:46,432][views.py-logout:25][WARNING][4628928000] - logged out: ztony0712
+[2021-12-08 21:22:46,437][login.py-login:37][WARNING][4628928000] - Incorrect password: ztony0712
+[2021-12-08 21:22:46,473][login.py-signup:81][INFO][4628928000] - Successful registration: ztony0712
+[2021-12-08 21:22:46,483][views.py-logout:25][WARNING][4628928000] - logged out: ztony0712
+[2021-12-08 21:22:46,490][login.py-login:33][WARNING][4628928000] - Successful login: ztony0712
+[2021-12-08 21:22:46,570][login.py-signup:81][INFO][4628928000] - Successful registration: ztony0712
+[2021-12-08 21:22:46,580][views.py-logout:25][WARNING][4628928000] - logged out: ztony0712
+[2021-12-08 21:22:46,601][login.py-signup:81][INFO][4628928000] - Successful registration: ztony0712
+[2021-12-08 21:23:05,725][login.py-signup:81][INFO][4661216768] - Successful registration: ztony0712
+[2021-12-08 21:23:05,792][login.py-signup:81][INFO][4661216768] - Successful registration: ztony0712
+[2021-12-08 21:23:05,828][login.py-signup:81][INFO][4661216768] - Successful registration: ztony0712
+[2021-12-08 21:23:05,839][views.py-logout:25][WARNING][4661216768] - logged out: ztony0712
+[2021-12-08 21:23:05,871][login.py-signup:81][INFO][4661216768] - Successful registration: ztony0712
+[2021-12-08 21:23:05,881][views.py-logout:25][WARNING][4661216768] - logged out: ztony0712
+[2021-12-08 21:23:05,909][login.py-signup:81][INFO][4661216768] - Successful registration: ztony0712
+[2021-12-08 21:23:05,921][views.py-logout:25][WARNING][4661216768] - logged out: ztony0712
+[2021-12-08 21:23:05,927][login.py-login:37][WARNING][4661216768] - Incorrect password: ztony0712
+[2021-12-08 21:23:05,978][login.py-signup:81][INFO][4661216768] - Successful registration: ztony0712
+[2021-12-08 21:23:05,998][views.py-logout:25][WARNING][4661216768] - logged out: ztony0712
+[2021-12-08 21:23:06,009][login.py-login:33][WARNING][4661216768] - Successful login: ztony0712
+[2021-12-08 21:23:06,082][login.py-signup:81][INFO][4661216768] - Successful registration: ztony0712
+[2021-12-08 21:23:06,092][views.py-logout:25][WARNING][4661216768] - logged out: ztony0712
+[2021-12-08 21:23:06,111][login.py-signup:81][INFO][4661216768] - Successful registration: ztony0712
+[2021-12-08 21:25:01,319][login.py-signup:81][INFO][4663244288] - Successful registration: ztony0712
+[2021-12-08 21:25:01,393][login.py-signup:81][INFO][4663244288] - Successful registration: ztony0712
+[2021-12-08 21:25:01,441][login.py-signup:81][INFO][4663244288] - Successful registration: ztony0712
+[2021-12-08 21:25:01,455][views.py-logout:25][WARNING][4663244288] - logged out: ztony0712
+[2021-12-08 21:25:01,488][login.py-signup:81][INFO][4663244288] - Successful registration: ztony0712
+[2021-12-08 21:25:01,496][views.py-logout:25][WARNING][4663244288] - logged out: ztony0712
+[2021-12-08 21:25:01,519][login.py-signup:81][INFO][4663244288] - Successful registration: ztony0712
+[2021-12-08 21:25:01,527][views.py-logout:25][WARNING][4663244288] - logged out: ztony0712
+[2021-12-08 21:25:01,532][login.py-login:37][WARNING][4663244288] - Incorrect password: ztony0712
+[2021-12-08 21:25:01,570][login.py-signup:81][INFO][4663244288] - Successful registration: ztony0712
+[2021-12-08 21:25:01,579][views.py-logout:25][WARNING][4663244288] - logged out: ztony0712
+[2021-12-08 21:25:01,585][login.py-login:33][WARNING][4663244288] - Successful login: ztony0712
+[2021-12-08 21:25:01,689][login.py-signup:81][INFO][4663244288] - Successful registration: ztony0712
+[2021-12-08 21:25:01,708][views.py-logout:25][WARNING][4663244288] - logged out: ztony0712
+[2021-12-08 21:25:01,740][login.py-signup:81][INFO][4663244288] - Successful registration: ztony0712
+[2021-12-08 21:25:16,397][login.py-signup:81][INFO][4724815360] - Successful registration: ztony0712
+[2021-12-08 21:25:16,462][login.py-signup:81][INFO][4724815360] - Successful registration: ztony0712
+[2021-12-08 21:25:16,498][login.py-signup:81][INFO][4724815360] - Successful registration: ztony0712
+[2021-12-08 21:25:16,513][views.py-logout:25][WARNING][4724815360] - logged out: ztony0712
+[2021-12-08 21:25:16,556][login.py-signup:81][INFO][4724815360] - Successful registration: ztony0712
+[2021-12-08 21:25:16,579][views.py-logout:25][WARNING][4724815360] - logged out: ztony0712
+[2021-12-08 21:25:16,625][login.py-signup:81][INFO][4724815360] - Successful registration: ztony0712
+[2021-12-08 21:25:16,643][views.py-logout:25][WARNING][4724815360] - logged out: ztony0712
+[2021-12-08 21:25:16,652][login.py-login:37][WARNING][4724815360] - Incorrect password: ztony0712
+[2021-12-08 21:25:16,702][login.py-signup:81][INFO][4724815360] - Successful registration: ztony0712
+[2021-12-08 21:25:16,714][views.py-logout:25][WARNING][4724815360] - logged out: ztony0712
+[2021-12-08 21:25:16,722][login.py-login:33][WARNING][4724815360] - Successful login: ztony0712
+[2021-12-08 21:25:16,812][login.py-signup:81][INFO][4724815360] - Successful registration: ztony0712
+[2021-12-08 21:25:16,824][views.py-logout:25][WARNING][4724815360] - logged out: ztony0712
+[2021-12-08 21:25:16,846][login.py-signup:81][INFO][4724815360] - Successful registration: ztony0712
+[2021-12-08 21:33:08,598][login.py-signup:81][INFO][4479899136] - Successful registration: ztony0712
+[2021-12-08 21:33:08,681][login.py-signup:81][INFO][4479899136] - Successful registration: ztony0712
+[2021-12-08 21:33:08,692][views.py-logout:25][WARNING][4479899136] - logged out: ztony0712
+[2021-12-08 21:33:08,744][login.py-signup:81][INFO][4479899136] - Successful registration: ztony0712
+[2021-12-08 21:33:08,755][views.py-logout:25][WARNING][4479899136] - logged out: ztony0712
+[2021-12-08 21:33:08,789][login.py-signup:81][INFO][4479899136] - Successful registration: ztony0712
+[2021-12-08 21:33:08,802][views.py-logout:25][WARNING][4479899136] - logged out: ztony0712
+[2021-12-08 21:33:08,825][login.py-signup:81][INFO][4479899136] - Successful registration: ztony0712
+[2021-12-08 21:33:08,835][views.py-logout:25][WARNING][4479899136] - logged out: ztony0712
+[2021-12-08 21:33:08,840][login.py-login:37][WARNING][4479899136] - Incorrect password: ztony0712
+[2021-12-08 21:33:08,876][login.py-signup:81][INFO][4479899136] - Successful registration: ztony0712
+[2021-12-08 21:33:08,884][views.py-logout:25][WARNING][4479899136] - logged out: ztony0712
+[2021-12-08 21:33:08,891][login.py-login:33][WARNING][4479899136] - Successful login: ztony0712
+[2021-12-08 21:33:08,963][login.py-signup:81][INFO][4479899136] - Successful registration: ztony0712
+[2021-12-08 21:33:08,971][views.py-logout:25][WARNING][4479899136] - logged out: ztony0712
+[2021-12-08 21:33:08,993][login.py-signup:81][INFO][4479899136] - Successful registration: ztony0712
+[2021-12-08 21:34:08,705][login.py-signup:81][INFO][4522944000] - Successful registration: ztony0712
+[2021-12-08 21:34:08,783][login.py-signup:81][INFO][4522944000] - Successful registration: ztony0712
+[2021-12-08 21:34:08,795][views.py-logout:25][WARNING][4522944000] - logged out: ztony0712
+[2021-12-08 21:34:08,840][login.py-signup:81][INFO][4522944000] - Successful registration: ztony0712
+[2021-12-08 21:34:08,850][views.py-logout:25][WARNING][4522944000] - logged out: ztony0712
+[2021-12-08 21:34:08,880][login.py-signup:81][INFO][4522944000] - Successful registration: ztony0712
+[2021-12-08 21:34:08,889][views.py-logout:25][WARNING][4522944000] - logged out: ztony0712
+[2021-12-08 21:34:08,913][login.py-signup:81][INFO][4522944000] - Successful registration: ztony0712
+[2021-12-08 21:34:08,924][views.py-logout:25][WARNING][4522944000] - logged out: ztony0712
+[2021-12-08 21:34:08,929][login.py-login:37][WARNING][4522944000] - Incorrect password: ztony0712
+[2021-12-08 21:34:08,964][login.py-signup:81][INFO][4522944000] - Successful registration: ztony0712
+[2021-12-08 21:34:08,973][views.py-logout:25][WARNING][4522944000] - logged out: ztony0712
+[2021-12-08 21:34:08,979][login.py-login:33][WARNING][4522944000] - Successful login: ztony0712
+[2021-12-08 21:34:09,050][login.py-signup:81][INFO][4522944000] - Successful registration: ztony0712
+[2021-12-08 21:34:09,060][views.py-logout:25][WARNING][4522944000] - logged out: ztony0712
+[2021-12-08 21:34:09,076][login.py-signup:81][INFO][4522944000] - Successful registration: ztony0712
+[2021-12-08 21:34:25,522][login.py-signup:81][INFO][4334609920] - Successful registration: ztony0712
+[2021-12-08 21:34:25,593][login.py-signup:81][INFO][4334609920] - Successful registration: ztony0712
+[2021-12-08 21:34:25,606][views.py-logout:25][WARNING][4334609920] - logged out: ztony0712
+[2021-12-08 21:34:25,662][login.py-signup:81][INFO][4334609920] - Successful registration: ztony0712
+[2021-12-08 21:34:25,672][views.py-logout:25][WARNING][4334609920] - logged out: ztony0712
+[2021-12-08 21:34:25,707][login.py-signup:81][INFO][4334609920] - Successful registration: ztony0712
+[2021-12-08 21:34:25,718][views.py-logout:25][WARNING][4334609920] - logged out: ztony0712
+[2021-12-08 21:34:25,741][login.py-signup:81][INFO][4334609920] - Successful registration: ztony0712
+[2021-12-08 21:34:25,749][views.py-logout:25][WARNING][4334609920] - logged out: ztony0712
+[2021-12-08 21:34:25,753][login.py-login:37][WARNING][4334609920] - Incorrect password: ztony0712
+[2021-12-08 21:34:25,790][login.py-signup:81][INFO][4334609920] - Successful registration: ztony0712
+[2021-12-08 21:34:25,798][views.py-logout:25][WARNING][4334609920] - logged out: ztony0712
+[2021-12-08 21:34:25,805][login.py-login:33][WARNING][4334609920] - Successful login: ztony0712
+[2021-12-08 21:34:25,880][login.py-signup:81][INFO][4334609920] - Successful registration: ztony0712
+[2021-12-08 21:34:25,889][views.py-logout:25][WARNING][4334609920] - logged out: ztony0712
+[2021-12-08 21:34:25,909][login.py-signup:81][INFO][4334609920] - Successful registration: ztony0712
+[2021-12-08 21:36:17,544][login.py-signup:81][INFO][4572567040] - Successful registration: ztony0712
+[2021-12-08 21:36:17,608][login.py-signup:81][INFO][4572567040] - Successful registration: ztony0712
+[2021-12-08 21:36:17,617][views.py-logout:25][WARNING][4572567040] - logged out: ztony0712
+[2021-12-08 21:36:17,658][login.py-signup:81][INFO][4572567040] - Successful registration: ztony0712
+[2021-12-08 21:36:17,668][views.py-logout:25][WARNING][4572567040] - logged out: ztony0712
+[2021-12-08 21:36:17,700][login.py-signup:81][INFO][4572567040] - Successful registration: ztony0712
+[2021-12-08 21:36:17,709][views.py-logout:25][WARNING][4572567040] - logged out: ztony0712
+[2021-12-08 21:36:17,731][login.py-signup:81][INFO][4572567040] - Successful registration: ztony0712
+[2021-12-08 21:36:17,740][views.py-logout:25][WARNING][4572567040] - logged out: ztony0712
+[2021-12-08 21:36:17,746][login.py-login:37][WARNING][4572567040] - Incorrect password: ztony0712
+[2021-12-08 21:36:17,788][login.py-signup:81][INFO][4572567040] - Successful registration: ztony0712
+[2021-12-08 21:36:17,797][views.py-logout:25][WARNING][4572567040] - logged out: ztony0712
+[2021-12-08 21:36:17,804][login.py-login:33][WARNING][4572567040] - Successful login: ztony0712
+[2021-12-08 21:36:17,881][login.py-signup:81][INFO][4572567040] - Successful registration: ztony0712
+[2021-12-08 21:36:17,891][views.py-logout:25][WARNING][4572567040] - logged out: ztony0712
+[2021-12-08 21:36:17,908][login.py-signup:81][INFO][4572567040] - Successful registration: ztony0712
+[2021-12-08 21:37:28,219][login.py-signup:81][INFO][4686210560] - Successful registration: ztony0712
+[2021-12-08 21:37:28,286][login.py-signup:81][INFO][4686210560] - Successful registration: ztony0712
+[2021-12-08 21:37:28,297][views.py-logout:25][WARNING][4686210560] - logged out: ztony0712
+[2021-12-08 21:37:28,359][login.py-signup:81][INFO][4686210560] - Successful registration: ztony0712
+[2021-12-08 21:37:28,370][views.py-logout:25][WARNING][4686210560] - logged out: ztony0712
+[2021-12-08 21:37:28,400][login.py-signup:81][INFO][4686210560] - Successful registration: ztony0712
+[2021-12-08 21:37:28,408][views.py-logout:25][WARNING][4686210560] - logged out: ztony0712
+[2021-12-08 21:37:28,428][login.py-signup:81][INFO][4686210560] - Successful registration: ztony0712
+[2021-12-08 21:37:28,436][views.py-logout:25][WARNING][4686210560] - logged out: ztony0712
+[2021-12-08 21:37:28,440][login.py-login:37][WARNING][4686210560] - Incorrect password: ztony0712
+[2021-12-08 21:37:28,475][login.py-signup:81][INFO][4686210560] - Successful registration: ztony0712
+[2021-12-08 21:37:28,483][views.py-logout:25][WARNING][4686210560] - logged out: ztony0712
+[2021-12-08 21:37:28,489][login.py-login:33][WARNING][4686210560] - Successful login: ztony0712
+[2021-12-08 21:37:28,559][login.py-signup:81][INFO][4686210560] - Successful registration: ztony0712
+[2021-12-08 21:37:28,568][views.py-logout:25][WARNING][4686210560] - logged out: ztony0712
+[2021-12-08 21:37:28,586][login.py-signup:81][INFO][4686210560] - Successful registration: ztony0712
+[2021-12-08 21:38:31,292][login.py-signup:81][INFO][4528014848] - Successful registration: ztony0712
+[2021-12-08 21:38:31,507][login.py-signup:81][INFO][4528014848] - Successful registration: ztony0712
+[2021-12-08 21:38:31,524][views.py-logout:25][WARNING][4528014848] - logged out: ztony0712
+[2021-12-08 21:38:31,599][login.py-signup:81][INFO][4528014848] - Successful registration: ztony0712
+[2021-12-08 21:38:31,622][views.py-logout:25][WARNING][4528014848] - logged out: ztony0712
+[2021-12-08 21:38:31,679][login.py-signup:81][INFO][4528014848] - Successful registration: ztony0712
+[2021-12-08 21:38:31,689][views.py-logout:25][WARNING][4528014848] - logged out: ztony0712
+[2021-12-08 21:38:31,723][login.py-signup:81][INFO][4528014848] - Successful registration: ztony0712
+[2021-12-08 21:38:31,738][views.py-logout:25][WARNING][4528014848] - logged out: ztony0712
+[2021-12-08 21:38:31,743][login.py-login:37][WARNING][4528014848] - Incorrect password: ztony0712
+[2021-12-08 21:38:31,785][login.py-signup:81][INFO][4528014848] - Successful registration: ztony0712
+[2021-12-08 21:38:31,794][views.py-logout:25][WARNING][4528014848] - logged out: ztony0712
+[2021-12-08 21:38:31,801][login.py-login:33][WARNING][4528014848] - Successful login: ztony0712
+[2021-12-08 21:38:31,902][login.py-signup:81][INFO][4528014848] - Successful registration: ztony0712
+[2021-12-08 21:38:31,913][views.py-logout:25][WARNING][4528014848] - logged out: ztony0712
+[2021-12-08 21:38:31,935][login.py-signup:81][INFO][4528014848] - Successful registration: ztony0712
+[2021-12-08 21:39:29,054][login.py-signup:81][INFO][4580890112] - Successful registration: ztony0712
+[2021-12-08 21:39:29,121][login.py-signup:81][INFO][4580890112] - Successful registration: ztony0712
+[2021-12-08 21:39:29,130][views.py-logout:25][WARNING][4580890112] - logged out: ztony0712
+[2021-12-08 21:39:29,178][login.py-signup:81][INFO][4580890112] - Successful registration: ztony0712
+[2021-12-08 21:39:29,188][views.py-logout:25][WARNING][4580890112] - logged out: ztony0712
+[2021-12-08 21:39:29,220][login.py-signup:81][INFO][4580890112] - Successful registration: ztony0712
+[2021-12-08 21:39:29,231][views.py-logout:25][WARNING][4580890112] - logged out: ztony0712
+[2021-12-08 21:39:29,254][login.py-signup:81][INFO][4580890112] - Successful registration: ztony0712
+[2021-12-08 21:39:29,264][views.py-logout:25][WARNING][4580890112] - logged out: ztony0712
+[2021-12-08 21:39:29,268][login.py-login:37][WARNING][4580890112] - Incorrect password: ztony0712
+[2021-12-08 21:39:29,298][login.py-signup:81][INFO][4580890112] - Successful registration: ztony0712
+[2021-12-08 21:39:29,310][views.py-logout:25][WARNING][4580890112] - logged out: ztony0712
+[2021-12-08 21:39:29,316][login.py-login:33][WARNING][4580890112] - Successful login: ztony0712
+[2021-12-08 21:39:29,386][login.py-signup:81][INFO][4580890112] - Successful registration: ztony0712
+[2021-12-08 21:39:29,395][views.py-logout:25][WARNING][4580890112] - logged out: ztony0712
+[2021-12-08 21:39:29,412][login.py-signup:81][INFO][4580890112] - Successful registration: ztony0712
+[2021-12-08 21:39:39,399][login.py-signup:81][INFO][4491691520] - Successful registration: ztony0712
+[2021-12-08 21:39:39,470][login.py-signup:81][INFO][4491691520] - Successful registration: ztony0712
+[2021-12-08 21:39:39,479][views.py-logout:25][WARNING][4491691520] - logged out: ztony0712
+[2021-12-08 21:39:39,532][login.py-signup:81][INFO][4491691520] - Successful registration: ztony0712
+[2021-12-08 21:39:39,549][views.py-logout:25][WARNING][4491691520] - logged out: ztony0712
+[2021-12-08 21:39:39,583][login.py-signup:81][INFO][4491691520] - Successful registration: ztony0712
+[2021-12-08 21:39:39,592][views.py-logout:25][WARNING][4491691520] - logged out: ztony0712
+[2021-12-08 21:39:39,613][login.py-signup:81][INFO][4491691520] - Successful registration: ztony0712
+[2021-12-08 21:39:39,621][views.py-logout:25][WARNING][4491691520] - logged out: ztony0712
+[2021-12-08 21:39:39,628][login.py-login:37][WARNING][4491691520] - Incorrect password: ztony0712
+[2021-12-08 21:39:39,665][login.py-signup:81][INFO][4491691520] - Successful registration: ztony0712
+[2021-12-08 21:39:39,673][views.py-logout:25][WARNING][4491691520] - logged out: ztony0712
+[2021-12-08 21:39:39,678][login.py-login:33][WARNING][4491691520] - Successful login: ztony0712
+[2021-12-08 21:39:39,753][login.py-signup:81][INFO][4491691520] - Successful registration: ztony0712
+[2021-12-08 21:39:39,771][views.py-logout:25][WARNING][4491691520] - logged out: ztony0712
+[2021-12-08 21:39:39,797][login.py-signup:81][INFO][4491691520] - Successful registration: ztony0712
+[2021-12-08 21:41:29,761][login.py-signup:81][INFO][4515497472] - Successful registration: ztony0712
+[2021-12-08 21:41:29,837][login.py-signup:81][INFO][4515497472] - Successful registration: ztony0712
+[2021-12-08 21:41:29,846][views.py-logout:25][WARNING][4515497472] - logged out: ztony0712
+[2021-12-08 21:41:29,891][login.py-signup:81][INFO][4515497472] - Successful registration: ztony0712
+[2021-12-08 21:41:29,913][views.py-logout:25][WARNING][4515497472] - logged out: ztony0712
+[2021-12-08 21:41:29,962][login.py-signup:81][INFO][4515497472] - Successful registration: ztony0712
+[2021-12-08 21:41:29,971][views.py-logout:25][WARNING][4515497472] - logged out: ztony0712
+[2021-12-08 21:41:29,998][login.py-signup:81][INFO][4515497472] - Successful registration: ztony0712
+[2021-12-08 21:41:30,010][views.py-logout:25][WARNING][4515497472] - logged out: ztony0712
+[2021-12-08 21:41:30,015][login.py-login:37][WARNING][4515497472] - Incorrect password: ztony0712
+[2021-12-08 21:41:30,061][login.py-signup:81][INFO][4515497472] - Successful registration: ztony0712
+[2021-12-08 21:41:30,069][views.py-logout:25][WARNING][4515497472] - logged out: ztony0712
+[2021-12-08 21:41:30,075][login.py-login:33][WARNING][4515497472] - Successful login: ztony0712
+[2021-12-08 21:41:30,181][login.py-signup:81][INFO][4515497472] - Successful registration: ztony0712
+[2021-12-08 21:41:30,189][views.py-logout:25][WARNING][4515497472] - logged out: ztony0712
+[2021-12-08 21:41:30,205][login.py-signup:81][INFO][4515497472] - Successful registration: ztony0712
+[2021-12-08 21:41:43,187][login.py-signup:81][INFO][4545840640] - Successful registration: ztony0712
+[2021-12-08 21:41:43,260][login.py-signup:81][INFO][4545840640] - Successful registration: ztony0712
+[2021-12-08 21:41:43,285][views.py-logout:25][WARNING][4545840640] - logged out: ztony0712
+[2021-12-08 21:41:43,333][login.py-signup:81][INFO][4545840640] - Successful registration: ztony0712
+[2021-12-08 21:41:43,342][views.py-logout:25][WARNING][4545840640] - logged out: ztony0712
+[2021-12-08 21:41:43,374][login.py-signup:81][INFO][4545840640] - Successful registration: ztony0712
+[2021-12-08 21:41:43,388][views.py-logout:25][WARNING][4545840640] - logged out: ztony0712
+[2021-12-08 21:41:43,414][login.py-signup:81][INFO][4545840640] - Successful registration: ztony0712
+[2021-12-08 21:41:43,422][views.py-logout:25][WARNING][4545840640] - logged out: ztony0712
+[2021-12-08 21:41:43,426][login.py-login:37][WARNING][4545840640] - Incorrect password: ztony0712
+[2021-12-08 21:41:43,459][login.py-signup:81][INFO][4545840640] - Successful registration: ztony0712
+[2021-12-08 21:41:43,467][views.py-logout:25][WARNING][4545840640] - logged out: ztony0712
+[2021-12-08 21:41:43,473][login.py-login:33][WARNING][4545840640] - Successful login: ztony0712
+[2021-12-08 21:41:43,608][login.py-signup:81][INFO][4545840640] - Successful registration: ztony0712
+[2021-12-08 21:41:43,621][views.py-logout:25][WARNING][4545840640] - logged out: ztony0712
+[2021-12-08 21:41:43,650][login.py-signup:81][INFO][4545840640] - Successful registration: ztony0712
+[2021-12-08 21:43:57,089][login.py-signup:81][INFO][4712723968] - Successful registration: ztony0712
+[2021-12-08 21:43:57,160][login.py-signup:81][INFO][4712723968] - Successful registration: ztony0712
+[2021-12-08 21:43:57,169][views.py-logout:25][WARNING][4712723968] - logged out: ztony0712
+[2021-12-08 21:43:57,212][login.py-signup:81][INFO][4712723968] - Successful registration: ztony0712
+[2021-12-08 21:43:57,222][views.py-logout:25][WARNING][4712723968] - logged out: ztony0712
+[2021-12-08 21:43:57,252][login.py-signup:81][INFO][4712723968] - Successful registration: ztony0712
+[2021-12-08 21:43:57,261][views.py-logout:25][WARNING][4712723968] - logged out: ztony0712
+[2021-12-08 21:43:57,283][login.py-signup:81][INFO][4712723968] - Successful registration: ztony0712
+[2021-12-08 21:43:57,291][views.py-logout:25][WARNING][4712723968] - logged out: ztony0712
+[2021-12-08 21:43:57,295][login.py-login:37][WARNING][4712723968] - Incorrect password: ztony0712
+[2021-12-08 21:43:57,334][login.py-signup:81][INFO][4712723968] - Successful registration: ztony0712
+[2021-12-08 21:43:57,342][views.py-logout:25][WARNING][4712723968] - logged out: ztony0712
+[2021-12-08 21:43:57,349][login.py-login:33][WARNING][4712723968] - Successful login: ztony0712
+[2021-12-08 21:43:57,428][login.py-signup:81][INFO][4712723968] - Successful registration: ztony0712
+[2021-12-08 21:43:57,436][views.py-logout:25][WARNING][4712723968] - logged out: ztony0712
+[2021-12-08 21:43:57,450][login.py-signup:81][INFO][4712723968] - Successful registration: ztony0712
+[2021-12-08 21:44:04,082][login.py-signup:81][INFO][4681352704] - Successful registration: ztony0712
+[2021-12-08 21:44:04,145][login.py-signup:81][INFO][4681352704] - Successful registration: ztony0712
+[2021-12-08 21:44:04,153][views.py-logout:25][WARNING][4681352704] - logged out: ztony0712
+[2021-12-08 21:44:04,202][login.py-signup:81][INFO][4681352704] - Successful registration: ztony0712
+[2021-12-08 21:44:04,224][views.py-logout:25][WARNING][4681352704] - logged out: ztony0712
+[2021-12-08 21:44:04,258][login.py-signup:81][INFO][4681352704] - Successful registration: ztony0712
+[2021-12-08 21:44:04,266][views.py-logout:25][WARNING][4681352704] - logged out: ztony0712
+[2021-12-08 21:44:04,286][login.py-signup:81][INFO][4681352704] - Successful registration: ztony0712
+[2021-12-08 21:44:04,296][views.py-logout:25][WARNING][4681352704] - logged out: ztony0712
+[2021-12-08 21:44:04,300][login.py-login:37][WARNING][4681352704] - Incorrect password: ztony0712
+[2021-12-08 21:44:04,340][login.py-signup:81][INFO][4681352704] - Successful registration: ztony0712
+[2021-12-08 21:44:04,348][views.py-logout:25][WARNING][4681352704] - logged out: ztony0712
+[2021-12-08 21:44:04,356][login.py-login:33][WARNING][4681352704] - Successful login: ztony0712
+[2021-12-08 21:44:04,446][login.py-signup:81][INFO][4681352704] - Successful registration: ztony0712
+[2021-12-08 21:44:04,460][views.py-logout:25][WARNING][4681352704] - logged out: ztony0712
+[2021-12-08 21:44:04,487][login.py-signup:81][INFO][4681352704] - Successful registration: ztony0712
+[2021-12-08 21:44:47,951][login.py-signup:81][INFO][4492871168] - Successful registration: ztony0712
+[2021-12-08 21:44:48,027][login.py-signup:81][INFO][4492871168] - Successful registration: ztony0712
+[2021-12-08 21:44:48,044][views.py-logout:25][WARNING][4492871168] - logged out: ztony0712
+[2021-12-08 21:44:48,097][login.py-signup:81][INFO][4492871168] - Successful registration: ztony0712
+[2021-12-08 21:44:48,112][views.py-logout:25][WARNING][4492871168] - logged out: ztony0712
+[2021-12-08 21:44:48,149][login.py-signup:81][INFO][4492871168] - Successful registration: ztony0712
+[2021-12-08 21:44:48,162][views.py-logout:25][WARNING][4492871168] - logged out: ztony0712
+[2021-12-08 21:44:48,199][login.py-signup:81][INFO][4492871168] - Successful registration: ztony0712
+[2021-12-08 21:44:48,212][views.py-logout:25][WARNING][4492871168] - logged out: ztony0712
+[2021-12-08 21:44:48,243][login.py-signup:81][INFO][4492871168] - Successful registration: ztony0712
+[2021-12-08 21:44:48,253][views.py-logout:25][WARNING][4492871168] - logged out: ztony0712
+[2021-12-08 21:44:48,260][login.py-login:37][WARNING][4492871168] - Incorrect password: ztony0712
+[2021-12-08 21:44:48,306][login.py-signup:81][INFO][4492871168] - Successful registration: ztony0712
+[2021-12-08 21:44:48,316][views.py-logout:25][WARNING][4492871168] - logged out: ztony0712
+[2021-12-08 21:44:48,324][login.py-login:33][WARNING][4492871168] - Successful login: ztony0712
+[2021-12-08 21:44:48,446][login.py-signup:81][INFO][4492871168] - Successful registration: ztony0712
+[2021-12-08 21:44:48,459][views.py-logout:25][WARNING][4492871168] - logged out: ztony0712
+[2021-12-08 21:44:48,483][login.py-signup:81][INFO][4492871168] - Successful registration: ztony0712
+[2021-12-08 21:46:47,549][login.py-signup:81][INFO][4410406400] - Successful registration: ztony0712
+[2021-12-08 21:46:47,617][login.py-signup:81][INFO][4410406400] - Successful registration: ztony0712
+[2021-12-08 21:46:47,625][views.py-logout:25][WARNING][4410406400] - logged out: ztony0712
+[2021-12-08 21:46:47,667][login.py-signup:81][INFO][4410406400] - Successful registration: ztony0712
+[2021-12-08 21:46:47,679][views.py-logout:25][WARNING][4410406400] - logged out: ztony0712
+[2021-12-08 21:46:47,712][login.py-signup:81][INFO][4410406400] - Successful registration: ztony0712
+[2021-12-08 21:46:47,722][views.py-logout:25][WARNING][4410406400] - logged out: ztony0712
+[2021-12-08 21:46:47,745][login.py-signup:81][INFO][4410406400] - Successful registration: ztony0712
+[2021-12-08 21:46:47,756][views.py-logout:25][WARNING][4410406400] - logged out: ztony0712
+[2021-12-08 21:46:47,762][login.py-login:37][WARNING][4410406400] - Incorrect password: ztony0712
+[2021-12-08 21:46:47,810][login.py-signup:81][INFO][4410406400] - Successful registration: ztony0712
+[2021-12-08 21:46:47,824][views.py-logout:25][WARNING][4410406400] - logged out: ztony0712
+[2021-12-08 21:46:47,831][login.py-login:33][WARNING][4410406400] - Successful login: ztony0712
+[2021-12-08 21:46:47,907][login.py-signup:81][INFO][4410406400] - Successful registration: ztony0712
+[2021-12-08 21:46:47,916][views.py-logout:25][WARNING][4410406400] - logged out: ztony0712
+[2021-12-08 21:46:47,933][login.py-signup:81][INFO][4410406400] - Successful registration: ztony0712
+[2021-12-08 21:47:49,256][login.py-signup:81][INFO][4471907840] - Successful registration: ztony0712
+[2021-12-08 21:47:49,325][login.py-signup:81][INFO][4471907840] - Successful registration: ztony0712
+[2021-12-08 21:47:49,336][views.py-logout:25][WARNING][4471907840] - logged out: ztony0712
+[2021-12-08 21:47:49,381][login.py-signup:81][INFO][4471907840] - Successful registration: ztony0712
+[2021-12-08 21:47:49,392][views.py-logout:25][WARNING][4471907840] - logged out: ztony0712
+[2021-12-08 21:47:49,437][login.py-signup:81][INFO][4471907840] - Successful registration: ztony0712
+[2021-12-08 21:47:49,447][views.py-logout:25][WARNING][4471907840] - logged out: ztony0712
+[2021-12-08 21:47:49,473][login.py-signup:81][INFO][4471907840] - Successful registration: ztony0712
+[2021-12-08 21:47:49,482][views.py-logout:25][WARNING][4471907840] - logged out: ztony0712
+[2021-12-08 21:47:49,487][login.py-login:37][WARNING][4471907840] - Incorrect password: ztony0712
+[2021-12-08 21:47:49,529][login.py-signup:81][INFO][4471907840] - Successful registration: ztony0712
+[2021-12-08 21:47:49,539][views.py-logout:25][WARNING][4471907840] - logged out: ztony0712
+[2021-12-08 21:47:49,545][login.py-login:33][WARNING][4471907840] - Successful login: ztony0712
+[2021-12-08 21:47:49,615][login.py-signup:81][INFO][4471907840] - Successful registration: ztony0712
+[2021-12-08 21:47:49,625][views.py-logout:25][WARNING][4471907840] - logged out: ztony0712
+[2021-12-08 21:47:49,644][login.py-signup:81][INFO][4471907840] - Successful registration: ztony0712
+[2021-12-08 21:56:49,661][login.py-signup:81][INFO][4497245696] - Successful registration: ztony0712
+[2021-12-08 22:03:43,004][login.py-signup:81][INFO][4441695744] - Successful registration: ztony0712
+[2021-12-08 22:04:43,637][login.py-signup:81][INFO][4571010560] - Successful registration: ztony0712
+[2021-12-08 22:04:51,260][login.py-signup:81][INFO][4662269440] - Successful registration: ztony0712
+[2021-12-08 22:05:02,355][login.py-signup:81][INFO][4519896576] - Successful registration: ztony0712
+[2021-12-08 22:05:42,635][login.py-signup:81][INFO][4516533760] - Successful registration: ztony0712
+[2021-12-08 22:06:43,535][login.py-signup:81][INFO][4726060544] - Successful registration: ztony0712
+[2021-12-08 22:06:43,574][okr_function.py-add:41][WARNING][4726060544] - Failed to Add objective: ztony0712
+[2021-12-08 22:06:49,862][login.py-signup:81][INFO][4501566976] - Successful registration: ztony0712
+[2021-12-08 22:06:49,905][okr_function.py-add:41][WARNING][4501566976] - Failed to Add objective: ztony0712
+[2021-12-08 22:06:49,916][okr_function.py-enrich:84][WARNING][4501566976] - Failed to add Key Result: ztony0712
+[2021-12-08 22:24:22,694][login.py-signup:81][INFO][4447397376] - Successful registration: ztony0712
+[2021-12-08 22:24:22,733][okr_function.py-add:41][WARNING][4447397376] - Failed to Add objective: ztony0712
+[2021-12-08 22:24:22,742][okr_function.py-enrich:84][WARNING][4447397376] - Failed to add Key Result: ztony0712
+[2021-12-08 22:24:46,539][login.py-signup:81][INFO][4621850112] - Successful registration: ztony0712
+[2021-12-08 22:24:46,584][okr_function.py-add:30][INFO][4621850112] - Add objective: ztony0712
+[2021-12-08 22:24:46,600][okr_function.py-enrich:84][WARNING][4621850112] - Failed to add Key Result: ztony0712
+[2021-12-08 23:38:45,853][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:45,899][okr_function.py-add:30][INFO][4608431616] - Add objective: ztony0712
+[2021-12-08 23:38:45,912][okr_function.py-enrich:84][WARNING][4608431616] - Failed to add Key Result: ztony0712
+[2021-12-08 23:38:45,943][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:45,955][okr_function.py-add:41][WARNING][4608431616] - Failed to Add objective: ztony0712
+[2021-12-08 23:38:45,980][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:46,050][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:46,092][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:46,114][views.py-logout:25][WARNING][4608431616] - logged out: ztony0712
+[2021-12-08 23:38:46,171][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:46,215][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:46,227][views.py-logout:25][WARNING][4608431616] - logged out: ztony0712
+[2021-12-08 23:38:46,261][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:46,274][views.py-logout:25][WARNING][4608431616] - logged out: ztony0712
+[2021-12-08 23:38:46,305][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:46,321][views.py-logout:25][WARNING][4608431616] - logged out: ztony0712
+[2021-12-08 23:38:46,328][login.py-login:37][WARNING][4608431616] - Incorrect password: ztony0712
+[2021-12-08 23:38:46,390][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:46,398][views.py-logout:25][WARNING][4608431616] - logged out: ztony0712
+[2021-12-08 23:38:46,407][login.py-login:33][WARNING][4608431616] - Successful login: ztony0712
+[2021-12-08 23:38:46,465][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:46,581][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:38:46,591][views.py-logout:25][WARNING][4608431616] - logged out: ztony0712
+[2021-12-08 23:38:46,612][login.py-signup:81][INFO][4608431616] - Successful registration: ztony0712
+[2021-12-08 23:39:47,292][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,335][okr_function.py-add:30][INFO][4633568768] - Add objective: ztony0712
+[2021-12-08 23:39:47,350][okr_function.py-enrich:84][WARNING][4633568768] - Failed to add Key Result: ztony0712
+[2021-12-08 23:39:47,388][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,397][okr_function.py-add:41][WARNING][4633568768] - Failed to Add objective: ztony0712
+[2021-12-08 23:39:47,418][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,467][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,476][views.py-logout:25][WARNING][4633568768] - logged out: ztony0712
+[2021-12-08 23:39:47,503][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,518][views.py-logout:25][WARNING][4633568768] - logged out: ztony0712
+[2021-12-08 23:39:47,560][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,592][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,602][views.py-logout:25][WARNING][4633568768] - logged out: ztony0712
+[2021-12-08 23:39:47,631][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,644][views.py-logout:25][WARNING][4633568768] - logged out: ztony0712
+[2021-12-08 23:39:47,667][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,678][views.py-logout:25][WARNING][4633568768] - logged out: ztony0712
+[2021-12-08 23:39:47,682][login.py-login:37][WARNING][4633568768] - Incorrect password: ztony0712
+[2021-12-08 23:39:47,715][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,725][views.py-logout:25][WARNING][4633568768] - logged out: ztony0712
+[2021-12-08 23:39:47,734][login.py-login:33][WARNING][4633568768] - Successful login: ztony0712
+[2021-12-08 23:39:47,768][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,831][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:39:47,839][views.py-logout:25][WARNING][4633568768] - logged out: ztony0712
+[2021-12-08 23:39:47,855][login.py-signup:81][INFO][4633568768] - Successful registration: ztony0712
+[2021-12-08 23:40:25,173][login.py-signup:81][INFO][4670330368] - Successful registration: ztony0712
+[2021-12-08 23:40:25,239][views.py-logout:25][WARNING][4670330368] - logged out: ztony0712
+[2021-12-08 23:45:23,916][login.py-signup:81][INFO][4711835136] - Successful registration: ztony0712
+[2021-12-08 23:45:24,005][views.py-logout:25][WARNING][4711835136] - logged out: ztony0712
+[2021-12-08 23:45:56,887][login.py-signup:81][INFO][4516460032] - Successful registration: ztony0712
+[2021-12-08 23:45:56,923][views.py-logout:25][WARNING][4516460032] - logged out: ztony0712
+[2021-12-08 23:47:20,713][login.py-signup:81][INFO][4398966272] - Successful registration: ztony0712
+[2021-12-08 23:47:20,763][views.py-logout:25][WARNING][4398966272] - logged out: ztony0712
+[2021-12-08 23:48:04,183][login.py-signup:81][INFO][4661376512] - Successful registration: ztony0712
+[2021-12-08 23:48:04,224][views.py-logout:25][WARNING][4661376512] - logged out: ztony0712
+[2021-12-08 23:50:30,033][login.py-signup:81][INFO][4772402688] - Successful registration: ztony0712
+[2021-12-08 23:50:30,095][views.py-logout:25][WARNING][4772402688] - logged out: ztony0712
+[2021-12-08 23:50:50,613][login.py-signup:81][INFO][4524918272] - Successful registration: ztony0712
+[2021-12-08 23:50:50,657][views.py-logout:25][WARNING][4524918272] - logged out: ztony0712
+[2021-12-08 23:52:52,473][login.py-signup:81][INFO][4659660288] - Successful registration: ztony0712
+[2021-12-08 23:52:52,539][views.py-logout:25][WARNING][4659660288] - logged out: ztony0712
+[2021-12-08 23:53:09,788][login.py-signup:81][INFO][4655023616] - Successful registration: ztony0712
+[2021-12-08 23:53:09,823][views.py-logout:25][WARNING][4655023616] - logged out: ztony0712
+[2021-12-08 23:53:27,276][login.py-signup:81][INFO][4572120576] - Successful registration: ztony0712
+[2021-12-08 23:53:27,338][views.py-logout:25][WARNING][4572120576] - logged out: ztony0712
+[2021-12-08 23:53:27,343][login.py-change:115][WARNING][4572120576] - Incorrect old password: ztony0712
+[2021-12-08 23:53:34,120][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,160][okr_function.py-add:30][INFO][4470609408] - Add objective: ztony0712
+[2021-12-08 23:53:34,176][okr_function.py-enrich:84][WARNING][4470609408] - Failed to add Key Result: ztony0712
+[2021-12-08 23:53:34,205][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,213][okr_function.py-add:41][WARNING][4470609408] - Failed to Add objective: ztony0712
+[2021-12-08 23:53:34,237][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,287][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,296][views.py-logout:25][WARNING][4470609408] - logged out: ztony0712
+[2021-12-08 23:53:34,335][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,356][views.py-logout:25][WARNING][4470609408] - logged out: ztony0712
+[2021-12-08 23:53:34,362][login.py-change:115][WARNING][4470609408] - Incorrect old password: ztony0712
+[2021-12-08 23:53:34,420][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,483][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,494][views.py-logout:25][WARNING][4470609408] - logged out: ztony0712
+[2021-12-08 23:53:34,538][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,560][views.py-logout:25][WARNING][4470609408] - logged out: ztony0712
+[2021-12-08 23:53:34,595][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,604][views.py-logout:25][WARNING][4470609408] - logged out: ztony0712
+[2021-12-08 23:53:34,608][login.py-login:37][WARNING][4470609408] - Incorrect password: ztony0712
+[2021-12-08 23:53:34,645][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,653][views.py-logout:25][WARNING][4470609408] - logged out: ztony0712
+[2021-12-08 23:53:34,659][login.py-login:33][WARNING][4470609408] - Successful login: ztony0712
+[2021-12-08 23:53:34,690][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,754][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:53:34,764][views.py-logout:25][WARNING][4470609408] - logged out: ztony0712
+[2021-12-08 23:53:34,785][login.py-signup:81][INFO][4470609408] - Successful registration: ztony0712
+[2021-12-08 23:54:47,128][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,215][okr_function.py-add:30][INFO][4739282432] - Add objective: ztony0712
+[2021-12-08 23:54:47,240][okr_function.py-enrich:84][WARNING][4739282432] - Failed to add Key Result: ztony0712
+[2021-12-08 23:54:47,286][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,315][okr_function.py-add:41][WARNING][4739282432] - Failed to Add objective: ztony0712
+[2021-12-08 23:54:47,403][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,452][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,463][views.py-logout:25][WARNING][4739282432] - logged out: ztony0712
+[2021-12-08 23:54:47,492][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,505][views.py-logout:25][WARNING][4739282432] - logged out: ztony0712
+[2021-12-08 23:54:47,509][login.py-change:115][WARNING][4739282432] - Incorrect old password: ztony0712
+[2021-12-08 23:54:47,546][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,584][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,593][views.py-logout:25][WARNING][4739282432] - logged out: ztony0712
+[2021-12-08 23:54:47,634][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,646][views.py-logout:25][WARNING][4739282432] - logged out: ztony0712
+[2021-12-08 23:54:47,674][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,685][views.py-logout:25][WARNING][4739282432] - logged out: ztony0712
+[2021-12-08 23:54:47,689][login.py-login:37][WARNING][4739282432] - Incorrect password: ztony0712
+[2021-12-08 23:54:47,726][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,735][views.py-logout:25][WARNING][4739282432] - logged out: ztony0712
+[2021-12-08 23:54:47,741][login.py-login:33][WARNING][4739282432] - Successful login: ztony0712
+[2021-12-08 23:54:47,772][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,831][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:54:47,840][views.py-logout:25][WARNING][4739282432] - logged out: ztony0712
+[2021-12-08 23:54:47,855][login.py-signup:81][INFO][4739282432] - Successful registration: ztony0712
+[2021-12-08 23:58:24,234][login.py-login:33][WARNING][123145413865472] - Successful login: adore0712
+[2021-12-08 23:58:30,106][okr_function.py-enrich:73][INFO][123145413865472] - Add Key Result: adore0712
+[2021-12-08 23:58:42,912][okr_function.py-okr_submit:182][INFO][123145413865472] - Modification submit: adore0712
+[2021-12-08 23:58:42,912][okr_function.py-okr_submit:192][WARNING][123145413865472] - Failed to submit modification: adore0712
+[2021-12-08 23:59:17,179][okr_function.py-okr_submit:182][INFO][123145474658304] - Modification submit: adore0712
+[2021-12-08 23:59:32,353][okr_function.py-okr_submit:182][INFO][123145390194688] - Modification submit: adore0712
+[2021-12-09 00:13:35,266][login.py-signup:81][INFO][4464707072] - Successful registration: ztony0712
+[2021-12-09 00:13:35,318][okr_function.py-add:30][INFO][4464707072] - Add objective: ztony0712
+[2021-12-09 00:13:35,337][okr_function.py-enrich:73][INFO][4464707072] - Add Key Result: ztony0712
+[2021-12-09 00:13:35,367][okr_function.py-okr_submit:192][WARNING][4464707072] - Failed to submit modification: ztony0712
+[2021-12-09 00:15:58,660][login.py-signup:81][INFO][4580488704] - Successful registration: ztony0712
+[2021-12-09 00:15:58,734][okr_function.py-add:30][INFO][4580488704] - Add objective: ztony0712
+[2021-12-09 00:15:58,765][okr_function.py-enrich:73][INFO][4580488704] - Add Key Result: ztony0712
+[2021-12-09 00:15:58,810][okr_function.py-okr_submit:192][WARNING][4580488704] - Failed to submit modification: ztony0712
+[2021-12-09 00:15:58,832][okr_function.py-okr_submit:192][WARNING][4580488704] - Failed to submit modification: ztony0712
+[2021-12-09 00:15:58,852][okr_function.py-okr_submit:192][WARNING][4580488704] - Failed to submit modification: ztony0712
+[2021-12-09 00:15:58,879][okr_function.py-okr_submit:192][WARNING][4580488704] - Failed to submit modification: ztony0712
+[2021-12-09 00:15:58,907][okr_function.py-okr_submit:192][WARNING][4580488704] - Failed to submit modification: ztony0712
+[2021-12-09 00:15:58,934][okr_function.py-okr_submit:192][WARNING][4580488704] - Failed to submit modification: ztony0712
+[2021-12-09 00:15:58,965][okr_function.py-okr_submit:192][WARNING][4580488704] - Failed to submit modification: ztony0712
+[2021-12-09 00:15:59,002][okr_function.py-okr_submit:182][INFO][4580488704] - Modification submit: ztony0712
+[2021-12-09 00:16:21,468][login.py-signup:81][INFO][4711364096] - Successful registration: ztony0712
+[2021-12-09 00:16:21,519][okr_function.py-add:30][INFO][4711364096] - Add objective: ztony0712
+[2021-12-09 00:16:21,542][okr_function.py-enrich:73][INFO][4711364096] - Add Key Result: ztony0712
+[2021-12-09 00:16:21,574][okr_function.py-okr_submit:192][WARNING][4711364096] - Failed to submit modification: ztony0712
+[2021-12-09 00:16:21,618][okr_function.py-okr_submit:192][WARNING][4711364096] - Failed to submit modification: ztony0712
+[2021-12-09 00:16:21,710][okr_function.py-okr_submit:192][WARNING][4711364096] - Failed to submit modification: ztony0712
+[2021-12-09 00:16:21,730][okr_function.py-okr_submit:192][WARNING][4711364096] - Failed to submit modification: ztony0712
+[2021-12-09 00:16:21,747][okr_function.py-okr_submit:192][WARNING][4711364096] - Failed to submit modification: ztony0712
+[2021-12-09 00:16:21,771][okr_function.py-okr_submit:192][WARNING][4711364096] - Failed to submit modification: ztony0712
+[2021-12-09 00:16:21,791][okr_function.py-okr_submit:192][WARNING][4711364096] - Failed to submit modification: ztony0712
+[2021-12-09 00:20:38,622][login.py-signup:81][INFO][4477416960] - Successful registration: ztony0712
+[2021-12-09 00:20:38,676][okr_function.py-add:30][INFO][4477416960] - Add objective: ztony0712
+[2021-12-09 00:21:10,983][login.py-signup:81][INFO][4566664704] - Successful registration: ztony0712
+[2021-12-09 00:21:11,024][okr_function.py-add:30][INFO][4566664704] - Add objective: ztony0712
+[2021-12-09 00:21:11,041][okr_function.py-delete_obj:135][WARNING][4566664704] - Delete Objective: ztony0712
+[2021-12-09 00:21:44,741][login.py-signup:81][INFO][4447081984] - Successful registration: ztony0712
+[2021-12-09 00:21:44,799][okr_function.py-add:30][INFO][4447081984] - Add objective: ztony0712
+[2021-12-09 00:21:44,849][okr_function.py-delete_obj:135][WARNING][4447081984] - Delete Objective: ztony0712
+[2021-12-09 00:22:04,497][login.py-signup:81][INFO][4471064064] - Successful registration: ztony0712
+[2021-12-09 00:22:04,544][okr_function.py-add:30][INFO][4471064064] - Add objective: ztony0712
+[2021-12-09 00:22:04,562][okr_function.py-delete_obj:135][WARNING][4471064064] - Delete Objective: ztony0712
+[2021-12-09 00:22:41,621][login.py-signup:81][INFO][4538656256] - Successful registration: ztony0712
+[2021-12-09 00:22:41,671][okr_function.py-add:30][INFO][4538656256] - Add objective: ztony0712
+[2021-12-09 00:22:41,691][okr_function.py-delete_obj:135][WARNING][4538656256] - Delete Objective: ztony0712
+[2021-12-09 00:23:53,779][login.py-signup:81][INFO][4578936320] - Successful registration: ztony0712
+[2021-12-09 00:23:53,841][okr_function.py-add:30][INFO][4578936320] - Add objective: ztony0712
+[2021-12-09 00:23:53,864][okr_function.py-enrich:84][WARNING][4578936320] - Failed to add Key Result: ztony0712
+[2021-12-09 00:24:24,667][login.py-login:33][WARNING][123145530785792] - Successful login: ztony0712
+[2021-12-09 00:24:32,698][okr_function.py-enrich:73][INFO][123145530785792] - Add Key Result: ztony0712
+[2021-12-09 00:24:35,826][okr_function.py-enrich:73][INFO][123145530785792] - Add Key Result: ztony0712
+[2021-12-09 00:24:38,291][okr_function.py-delete_obj:135][WARNING][123145530785792] - Delete Objective: ztony0712
+[2021-12-09 00:24:43,456][okr_function.py-enrich:73][INFO][123145530785792] - Add Key Result: ztony0712
+[2021-12-09 00:24:46,886][okr_function.py-delete_kr:112][WARNING][123145530785792] - Delete Key Result: ztony0712
+[2021-12-09 00:26:27,121][login.py-signup:81][INFO][4365161984] - Successful registration: ztony0712
+[2021-12-09 00:26:27,169][okr_function.py-add:30][INFO][4365161984] - Add objective: ztony0712
+[2021-12-09 00:26:27,193][okr_function.py-enrich:84][WARNING][4365161984] - Failed to add Key Result: ztony0712
+[2021-12-09 00:26:41,908][login.py-signup:81][INFO][4739429888] - Successful registration: ztony0712
+[2021-12-09 00:26:41,964][okr_function.py-add:30][INFO][4739429888] - Add objective: ztony0712
+[2021-12-09 00:26:41,980][okr_function.py-enrich:84][WARNING][4739429888] - Failed to add Key Result: ztony0712
+[2021-12-09 00:28:40,671][login.py-signup:81][INFO][4748703232] - Successful registration: ztony0712
+[2021-12-09 00:28:40,714][okr_function.py-add:30][INFO][4748703232] - Add objective: ztony0712
+[2021-12-09 00:28:40,728][okr_function.py-enrich:85][WARNING][4748703232] - Failed to add Key Result: ztony0712
+[2021-12-09 00:30:06,627][login.py-signup:81][INFO][4453520896] - Successful registration: ztony0712
+[2021-12-09 00:30:06,689][okr_function.py-add:30][INFO][4453520896] - Add objective: ztony0712
+[2021-12-09 00:30:06,723][okr_function.py-enrich:85][WARNING][4453520896] - Failed to add Key Result: ztony0712
+[2021-12-09 00:30:15,455][login.py-signup:81][INFO][4597790208] - Successful registration: ztony0712
+[2021-12-09 00:30:15,500][okr_function.py-add:30][INFO][4597790208] - Add objective: ztony0712
+[2021-12-09 00:30:15,524][okr_function.py-enrich:73][INFO][4597790208] - Add Key Result: ztony0712
+[2021-12-09 00:30:15,543][okr_function.py-delete_kr:113][WARNING][4597790208] - Delete Key Result: ztony0712
+[2021-12-09 00:35:35,824][login.py-signup:81][INFO][4381812224] - Successful registration: ztony0712
+[2021-12-09 00:36:02,600][login.py-signup:81][INFO][4368803328] - Successful registration: ztony0712
+[2021-12-09 00:42:21,810][login.py-signup:81][INFO][4353439232] - Successful registration: ztony0712
+[2021-12-09 00:43:16,016][login.py-signup:81][INFO][4474693120] - Successful registration: ztony0712
+[2021-12-09 00:43:16,066][views.py-logout:25][WARNING][4474693120] - logged out: ztony0712
+[2021-12-09 00:43:16,074][login.py-signup:81][INFO][4474693120] - Successful registration: adore0712
+[2021-12-09 00:44:17,253][login.py-signup:81][INFO][4554765824] - Successful registration: ztony0712
+[2021-12-09 00:44:17,301][views.py-logout:25][WARNING][4554765824] - logged out: ztony0712
+[2021-12-09 00:44:17,308][login.py-signup:81][INFO][4554765824] - Successful registration: adore0712
+[2021-12-09 00:45:34,150][login.py-signup:81][INFO][4520752640] - Successful registration: ztony0712
+[2021-12-09 00:45:34,210][views.py-logout:25][WARNING][4520752640] - logged out: ztony0712
+[2021-12-09 00:45:34,218][login.py-signup:81][INFO][4520752640] - Successful registration: adore0712
+[2021-12-09 00:46:47,346][login.py-signup:81][INFO][4483798528] - Successful registration: ztony0712
+[2021-12-09 00:46:47,398][views.py-logout:25][WARNING][4483798528] - logged out: ztony0712
+[2021-12-09 00:46:47,406][login.py-signup:81][INFO][4483798528] - Successful registration: adore0712
+[2021-12-09 00:48:46,537][login.py-signup:81][INFO][4681610752] - Successful registration: ztony0712
+[2021-12-09 00:48:46,594][views.py-logout:25][WARNING][4681610752] - logged out: ztony0712
+[2021-12-09 00:48:46,602][login.py-signup:81][INFO][4681610752] - Successful registration: adore0712
+[2021-12-09 00:53:53,383][login.py-signup:81][INFO][4462315008] - Successful registration: ztony0712
+[2021-12-09 00:53:53,475][views.py-logout:25][WARNING][4462315008] - logged out: ztony0712
+[2021-12-09 00:53:53,491][login.py-signup:81][INFO][4462315008] - Successful registration: adore0712
+[2021-12-09 00:54:17,404][login.py-signup:81][INFO][4522026496] - Successful registration: ztony0712
+[2021-12-09 00:54:17,482][views.py-logout:25][WARNING][4522026496] - logged out: ztony0712
+[2021-12-09 00:54:17,488][login.py-signup:81][INFO][4522026496] - Successful registration: adore0712
+[2021-12-09 00:55:33,673][login.py-signup:81][INFO][4641879552] - Successful registration: ztony0712
+[2021-12-09 00:55:33,728][views.py-logout:25][WARNING][4641879552] - logged out: ztony0712
+[2021-12-09 00:55:33,734][login.py-signup:81][INFO][4641879552] - Successful registration: adore0712
+[2021-12-09 00:56:24,244][login.py-signup:81][INFO][4805027328] - Successful registration: ztony0712
+[2021-12-09 00:56:24,301][views.py-logout:25][WARNING][4805027328] - logged out: ztony0712
+[2021-12-09 00:56:24,314][login.py-signup:81][INFO][4805027328] - Successful registration: adore0712
+[2021-12-09 00:58:52,589][login.py-signup:81][INFO][4606338560] - Successful registration: ztony0712
+[2021-12-09 00:58:52,637][views.py-logout:25][WARNING][4606338560] - logged out: ztony0712
+[2021-12-09 00:58:52,644][login.py-signup:81][INFO][4606338560] - Successful registration: adore0712
+[2021-12-09 01:00:14,364][login.py-signup:81][INFO][4519040512] - Successful registration: ztony0712
+[2021-12-09 01:00:14,433][views.py-logout:25][WARNING][4519040512] - logged out: ztony0712
+[2021-12-09 01:00:14,444][login.py-signup:81][INFO][4519040512] - Successful registration: adore0712
+[2021-12-09 01:00:26,472][login.py-signup:81][INFO][4561573376] - Successful registration: ztony0712
+[2021-12-09 01:00:26,541][views.py-logout:25][WARNING][4561573376] - logged out: ztony0712
+[2021-12-09 01:00:26,553][login.py-signup:81][INFO][4561573376] - Successful registration: adore0712
+[2021-12-09 01:00:31,194][login.py-signup:81][INFO][4563412480] - Successful registration: ztony0712
+[2021-12-09 01:00:31,260][views.py-logout:25][WARNING][4563412480] - logged out: ztony0712
+[2021-12-09 01:00:31,267][login.py-signup:81][INFO][4563412480] - Successful registration: adore0712
+[2021-12-09 01:01:46,292][login.py-signup:81][INFO][4758066688] - Successful registration: ztony0712
+[2021-12-09 01:02:20,319][login.py-signup:81][INFO][4387554816] - Successful registration: ztony0712
+[2021-12-09 01:03:10,021][login.py-signup:81][INFO][4728657408] - Successful registration: ztony0712
+[2021-12-09 01:05:35,193][login.py-signup:81][INFO][4431496704] - Successful registration: ztony0712
+[2021-12-09 01:05:35,236][group_function.py-group_submit:27][INFO][4431496704] - Create a group: ztony0712
+[2021-12-09 01:05:35,258][views.py-logout:25][WARNING][4431496704] - logged out: ztony0712
+[2021-12-09 01:05:35,264][login.py-signup:81][INFO][4431496704] - Successful registration: adore0712
+[2021-12-09 01:06:00,109][login.py-signup:81][INFO][4507489792] - Successful registration: ztony0712
+[2021-12-09 01:06:00,181][group_function.py-group_submit:27][INFO][4507489792] - Create a group: ztony0712
+[2021-12-09 01:06:00,222][views.py-logout:25][WARNING][4507489792] - logged out: ztony0712
+[2021-12-09 01:06:00,234][login.py-signup:81][INFO][4507489792] - Successful registration: adore0712
+[2021-12-09 01:06:00,254][group_function.py-join_submit:51][INFO][4507489792] - Join in a group: adore0712
+[2021-12-09 01:07:22,338][login.py-signup:81][INFO][4622632448] - Successful registration: ztony0712
+[2021-12-09 01:07:22,381][group_function.py-group_submit:27][INFO][4622632448] - Create a group: ztony0712
+[2021-12-09 01:07:22,404][views.py-logout:25][WARNING][4622632448] - logged out: ztony0712
+[2021-12-09 01:07:22,412][login.py-signup:81][INFO][4622632448] - Successful registration: adore0712
+[2021-12-09 01:07:22,435][group_function.py-join_submit:51][INFO][4622632448] - Join in a group: adore0712
+[2021-12-09 01:08:22,461][login.py-signup:81][INFO][4369147392] - Successful registration: ztony0712
+[2021-12-09 01:08:22,529][group_function.py-group_submit:27][INFO][4369147392] - Create a group: ztony0712
+[2021-12-09 01:08:22,571][views.py-logout:25][WARNING][4369147392] - logged out: ztony0712
+[2021-12-09 01:08:22,588][login.py-signup:81][INFO][4369147392] - Successful registration: adore0712
+[2021-12-09 01:08:22,619][group_function.py-join_submit:51][INFO][4369147392] - Join in a group: adore0712
+[2021-12-09 01:10:40,673][group_function.py-quit_submit:78][WARNING][123145570676736] - Quit a group: ztony0712
+[2021-12-09 01:10:42,466][group_function.py-join_submit:50][INFO][123145570676736] - Join in a group: ztony0712
+[2021-12-09 01:10:52,258][group_function.py-quit_submit:78][WARNING][123145570676736] - Quit a group: ztony0712
+[2021-12-09 01:11:47,962][group_function.py-join_submit:50][INFO][123145570676736] - Join in a group: ztony0712
+[2021-12-09 01:12:36,988][group_function.py-quit_submit:78][WARNING][123145570676736] - Quit a group: ztony0712
+[2021-12-09 01:13:28,709][login.py-signup:81][INFO][4723267072] - Successful registration: ztony0712
+[2021-12-09 01:13:28,769][group_function.py-group_submit:26][INFO][4723267072] - Create a group: ztony0712
+[2021-12-09 01:13:28,825][views.py-logout:25][WARNING][4723267072] - logged out: ztony0712
+[2021-12-09 01:13:28,878][login.py-signup:81][INFO][4723267072] - Successful registration: adore0712
+[2021-12-09 01:13:28,947][group_function.py-join_submit:50][INFO][4723267072] - Join in a group: adore0712
+[2021-12-09 01:16:37,845][login.py-signup:81][INFO][4617721344] - Successful registration: ztony0712
+[2021-12-09 01:16:37,889][okr_function.py-add:30][INFO][4617721344] - Add objective: ztony0712
+[2021-12-09 01:16:37,908][okr_function.py-delete_obj:136][WARNING][4617721344] - Delete Objective: ztony0712
+[2021-12-09 01:17:22,748][login.py-signup:81][INFO][4419360256] - Successful registration: ztony0712
+[2021-12-09 01:17:22,791][okr_function.py-add:30][INFO][4419360256] - Add objective: ztony0712
+[2021-12-09 01:17:22,813][okr_function.py-enrich:73][INFO][4419360256] - Add Key Result: ztony0712
+[2021-12-09 01:17:22,833][okr_function.py-delete_kr:113][WARNING][4419360256] - Delete Key Result: ztony0712
+[2021-12-09 01:17:55,299][login.py-signup:81][INFO][4593210880] - Successful registration: ztony0712
+[2021-12-09 01:17:55,341][okr_function.py-add:30][INFO][4593210880] - Add objective: ztony0712
+[2021-12-09 01:17:55,366][okr_function.py-enrich:73][INFO][4593210880] - Add Key Result: ztony0712
+[2021-12-09 01:17:55,383][okr_function.py-delete_kr:113][WARNING][4593210880] - Delete Key Result: ztony0712
+[2021-12-09 01:19:17,248][login.py-signup:81][INFO][4715505152] - Successful registration: ztony0712
+[2021-12-09 01:19:17,341][group_function.py-group_submit:26][INFO][4715505152] - Create a group: ztony0712
+[2021-12-09 01:19:17,392][views.py-logout:25][WARNING][4715505152] - logged out: ztony0712
+[2021-12-09 01:19:17,414][login.py-signup:81][INFO][4715505152] - Successful registration: adore0712
+[2021-12-09 01:19:17,430][group_function.py-join_submit:50][INFO][4715505152] - Join in a group: adore0712
+[2021-12-09 01:28:31,613][login.py-signup:81][INFO][4677543424] - Successful registration: ztony0712
+[2021-12-09 01:28:31,677][group_function.py-group_submit:26][INFO][4677543424] - Create a group: ztony0712
+[2021-12-09 01:28:31,702][views.py-logout:25][WARNING][4677543424] - logged out: ztony0712
+[2021-12-09 01:28:31,710][login.py-signup:81][INFO][4677543424] - Successful registration: adore0712
+[2021-12-09 01:28:31,726][group_function.py-join_submit:50][INFO][4677543424] - Join in a group: adore0712
+[2021-12-09 01:36:18,666][login.py-signup:81][INFO][4482541056] - Successful registration: ztony0712
+[2021-12-09 01:36:18,712][group_function.py-group_submit:26][INFO][4482541056] - Create a group: ztony0712
+[2021-12-09 01:36:18,733][views.py-logout:25][WARNING][4482541056] - logged out: ztony0712
+[2021-12-09 01:36:18,740][login.py-signup:81][INFO][4482541056] - Successful registration: adore0712
+[2021-12-09 01:36:18,754][group_function.py-join_submit:50][INFO][4482541056] - Join in a group: adore0712
+[2021-12-09 01:39:06,505][login.py-signup:81][INFO][4617041408] - Successful registration: ztony0712
+[2021-12-09 01:39:06,551][group_function.py-group_submit:26][INFO][4617041408] - Create a group: ztony0712
+[2021-12-09 01:39:06,571][views.py-logout:25][WARNING][4617041408] - logged out: ztony0712
+[2021-12-09 01:39:06,578][login.py-signup:81][INFO][4617041408] - Successful registration: adore0712
+[2021-12-09 01:39:06,591][group_function.py-join_submit:50][INFO][4617041408] - Join in a group: adore0712
+[2021-12-09 01:39:36,902][login.py-signup:81][INFO][4525221376] - Successful registration: ztony0712
+[2021-12-09 01:39:36,946][group_function.py-group_submit:26][INFO][4525221376] - Create a group: ztony0712
+[2021-12-09 01:39:36,966][views.py-logout:25][WARNING][4525221376] - logged out: ztony0712
+[2021-12-09 01:39:36,973][login.py-signup:81][INFO][4525221376] - Successful registration: adore0712
+[2021-12-09 01:39:36,986][group_function.py-join_submit:50][INFO][4525221376] - Join in a group: adore0712
+[2021-12-09 01:48:23,633][group_function.py-quit_submit:78][WARNING][123145495896064] - Quit a group: adore0712
+[2021-12-09 01:49:07,702][login.py-signup:81][INFO][4696356352] - Successful registration: ztony0712
+[2021-12-09 01:49:07,752][group_function.py-group_submit:26][INFO][4696356352] - Create a group: ztony0712
+[2021-12-09 01:49:07,776][views.py-logout:25][WARNING][4696356352] - logged out: ztony0712
+[2021-12-09 01:49:07,784][login.py-signup:81][INFO][4696356352] - Successful registration: adore0712
+[2021-12-09 01:49:07,801][group_function.py-join_submit:50][INFO][4696356352] - Join in a group: adore0712
+[2021-12-09 01:52:57,047][login.py-signup:81][INFO][4594628096] - Successful registration: ztony0712
+[2021-12-09 01:52:57,120][group_function.py-group_submit:26][INFO][4594628096] - Create a group: ztony0712
+[2021-12-09 01:52:57,156][views.py-logout:25][WARNING][4594628096] - logged out: ztony0712
+[2021-12-09 01:52:57,171][login.py-signup:81][INFO][4594628096] - Successful registration: adore0712
+[2021-12-09 01:52:57,202][group_function.py-join_submit:50][INFO][4594628096] - Join in a group: adore0712
+[2021-12-09 01:52:57,223][group_function.py-quit_submit:78][WARNING][4594628096] - Quit a group: adore0712
+[2021-12-09 02:22:19,410][okr_function.py-okr_submit:183][INFO][123145560555520] - Modification submit: adore0712
+[2021-12-09 02:36:57,791][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:57,852][okr_function.py-add:30][INFO][4379833856] - Add objective: ztony0712
+[2021-12-09 02:36:57,874][okr_function.py-enrich:85][WARNING][4379833856] - Failed to add Key Result: ztony0712
+[2021-12-09 02:36:57,904][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:57,915][okr_function.py-add:41][WARNING][4379833856] - Failed to Add objective: ztony0712
+[2021-12-09 02:36:57,944][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:57,997][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,010][views.py-logout:25][WARNING][4379833856] - logged out: ztony0712
+[2021-12-09 02:36:58,050][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,065][views.py-logout:25][WARNING][4379833856] - logged out: ztony0712
+[2021-12-09 02:36:58,073][login.py-change:115][WARNING][4379833856] - Incorrect old password: ztony0712
+[2021-12-09 02:36:58,111][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,144][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,156][okr_function.py-add:30][INFO][4379833856] - Add objective: ztony0712
+[2021-12-09 02:36:58,172][okr_function.py-enrich:73][INFO][4379833856] - Add Key Result: ztony0712
+[2021-12-09 02:36:58,187][okr_function.py-delete_kr:113][WARNING][4379833856] - Delete Key Result: ztony0712
+[2021-12-09 02:36:58,212][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,223][okr_function.py-add:30][INFO][4379833856] - Add objective: ztony0712
+[2021-12-09 02:36:58,236][okr_function.py-delete_obj:136][WARNING][4379833856] - Delete Objective: ztony0712
+[2021-12-09 02:36:58,259][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,273][okr_function.py-add:30][INFO][4379833856] - Add objective: ztony0712
+[2021-12-09 02:36:58,292][okr_function.py-enrich:73][INFO][4379833856] - Add Key Result: ztony0712
+[2021-12-09 02:36:58,326][okr_function.py-okr_submit:193][WARNING][4379833856] - Failed to submit modification: ztony0712
+[2021-12-09 02:36:58,344][okr_function.py-okr_submit:193][WARNING][4379833856] - Failed to submit modification: ztony0712
+[2021-12-09 02:36:58,361][okr_function.py-okr_submit:193][WARNING][4379833856] - Failed to submit modification: ztony0712
+[2021-12-09 02:36:58,382][okr_function.py-okr_submit:193][WARNING][4379833856] - Failed to submit modification: ztony0712
+[2021-12-09 02:36:58,400][okr_function.py-okr_submit:193][WARNING][4379833856] - Failed to submit modification: ztony0712
+[2021-12-09 02:36:58,418][okr_function.py-okr_submit:193][WARNING][4379833856] - Failed to submit modification: ztony0712
+[2021-12-09 02:36:58,437][okr_function.py-okr_submit:193][WARNING][4379833856] - Failed to submit modification: ztony0712
+[2021-12-09 02:36:58,461][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,471][views.py-logout:25][WARNING][4379833856] - logged out: ztony0712
+[2021-12-09 02:36:58,503][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,514][views.py-logout:25][WARNING][4379833856] - logged out: ztony0712
+[2021-12-09 02:36:58,542][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,551][views.py-logout:25][WARNING][4379833856] - logged out: ztony0712
+[2021-12-09 02:36:58,557][login.py-login:37][WARNING][4379833856] - Incorrect password: ztony0712
+[2021-12-09 02:36:58,598][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,615][group_function.py-group_submit:26][INFO][4379833856] - Create a group: ztony0712
+[2021-12-09 02:36:58,635][views.py-logout:25][WARNING][4379833856] - logged out: ztony0712
+[2021-12-09 02:36:58,646][login.py-signup:81][INFO][4379833856] - Successful registration: adore0712
+[2021-12-09 02:36:58,660][group_function.py-join_submit:50][INFO][4379833856] - Join in a group: adore0712
+[2021-12-09 02:36:58,676][group_function.py-quit_submit:78][WARNING][4379833856] - Quit a group: adore0712
+[2021-12-09 02:36:58,697][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,705][views.py-logout:25][WARNING][4379833856] - logged out: ztony0712
+[2021-12-09 02:36:58,711][login.py-login:33][WARNING][4379833856] - Successful login: ztony0712
+[2021-12-09 02:36:58,742][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,812][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:36:58,822][views.py-logout:25][WARNING][4379833856] - logged out: ztony0712
+[2021-12-09 02:36:58,840][login.py-signup:81][INFO][4379833856] - Successful registration: ztony0712
+[2021-12-09 02:38:25,560][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:25,613][okr_function.py-add:30][INFO][4569867776] - Add objective: ztony0712
+[2021-12-09 02:38:25,631][okr_function.py-enrich:85][WARNING][4569867776] - Failed to add Key Result: ztony0712
+[2021-12-09 02:38:25,657][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:25,667][okr_function.py-add:41][WARNING][4569867776] - Failed to Add objective: ztony0712
+[2021-12-09 02:38:25,691][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:25,755][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:25,778][views.py-logout:25][WARNING][4569867776] - logged out: ztony0712
+[2021-12-09 02:38:25,848][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:25,877][views.py-logout:25][WARNING][4569867776] - logged out: ztony0712
+[2021-12-09 02:38:25,884][login.py-change:115][WARNING][4569867776] - Incorrect old password: ztony0712
+[2021-12-09 02:38:25,919][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:25,951][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:25,964][okr_function.py-add:30][INFO][4569867776] - Add objective: ztony0712
+[2021-12-09 02:38:25,979][okr_function.py-enrich:73][INFO][4569867776] - Add Key Result: ztony0712
+[2021-12-09 02:38:25,999][okr_function.py-delete_kr:113][WARNING][4569867776] - Delete Key Result: ztony0712
+[2021-12-09 02:38:26,023][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:26,034][okr_function.py-add:30][INFO][4569867776] - Add objective: ztony0712
+[2021-12-09 02:38:26,048][okr_function.py-delete_obj:136][WARNING][4569867776] - Delete Objective: ztony0712
+[2021-12-09 02:38:26,072][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:26,083][okr_function.py-add:30][INFO][4569867776] - Add objective: ztony0712
+[2021-12-09 02:38:26,101][okr_function.py-enrich:73][INFO][4569867776] - Add Key Result: ztony0712
+[2021-12-09 02:38:26,142][okr_function.py-okr_submit:193][WARNING][4569867776] - Failed to submit modification: ztony0712
+[2021-12-09 02:38:26,163][okr_function.py-okr_submit:193][WARNING][4569867776] - Failed to submit modification: ztony0712
+[2021-12-09 02:38:26,183][okr_function.py-okr_submit:193][WARNING][4569867776] - Failed to submit modification: ztony0712
+[2021-12-09 02:38:26,203][okr_function.py-okr_submit:193][WARNING][4569867776] - Failed to submit modification: ztony0712
+[2021-12-09 02:38:26,221][okr_function.py-okr_submit:193][WARNING][4569867776] - Failed to submit modification: ztony0712
+[2021-12-09 02:38:26,238][okr_function.py-okr_submit:193][WARNING][4569867776] - Failed to submit modification: ztony0712
+[2021-12-09 02:38:26,256][okr_function.py-okr_submit:193][WARNING][4569867776] - Failed to submit modification: ztony0712
+[2021-12-09 02:38:26,276][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:26,286][views.py-logout:25][WARNING][4569867776] - logged out: ztony0712
+[2021-12-09 02:38:26,316][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:26,327][views.py-logout:25][WARNING][4569867776] - logged out: ztony0712
+[2021-12-09 02:38:26,351][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:26,360][views.py-logout:25][WARNING][4569867776] - logged out: ztony0712
+[2021-12-09 02:38:26,364][login.py-login:37][WARNING][4569867776] - Incorrect password: ztony0712
+[2021-12-09 02:38:26,405][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:26,420][group_function.py-group_submit:26][INFO][4569867776] - Create a group: ztony0712
+[2021-12-09 02:38:26,440][views.py-logout:25][WARNING][4569867776] - logged out: ztony0712
+[2021-12-09 02:38:26,447][login.py-signup:81][INFO][4569867776] - Successful registration: adore0712
+[2021-12-09 02:38:26,464][group_function.py-join_submit:50][INFO][4569867776] - Join in a group: adore0712
+[2021-12-09 02:38:26,480][group_function.py-quit_submit:78][WARNING][4569867776] - Quit a group: adore0712
+[2021-12-09 02:38:26,514][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:26,523][views.py-logout:25][WARNING][4569867776] - logged out: ztony0712
+[2021-12-09 02:38:26,529][login.py-login:33][WARNING][4569867776] - Successful login: ztony0712
+[2021-12-09 02:38:26,563][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:26,632][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:38:26,642][views.py-logout:25][WARNING][4569867776] - logged out: ztony0712
+[2021-12-09 02:38:26,660][login.py-signup:81][INFO][4569867776] - Successful registration: ztony0712
+[2021-12-09 02:42:35,090][views.py-logout:25][WARNING][123145387732992] - logged out: adore0712
+[2021-12-09 02:44:30,507][login.py-signup:81][INFO][123145387732992] - Successful registration: bamboo
+[2021-12-09 02:44:50,237][okr_function.py-add:30][INFO][123145387732992] - Add objective: bamboo
+[2021-12-09 02:45:02,021][okr_function.py-add:30][INFO][123145387732992] - Add objective: bamboo
+[2021-12-09 02:45:06,656][okr_function.py-add:30][INFO][123145387732992] - Add objective: bamboo
+[2021-12-09 02:45:16,207][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:45:20,612][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:45:25,864][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:45:30,111][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:45:33,835][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:45:37,533][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:45:45,699][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:46:55,302][okr_function.py-okr_submit:183][INFO][123145387732992] - Modification submit: bamboo
+[2021-12-09 02:49:02,058][okr_function.py-okr_submit:183][INFO][123145387732992] - Modification submit: bamboo
+[2021-12-09 02:49:16,415][okr_function.py-okr_submit:183][INFO][123145387732992] - Modification submit: bamboo
+[2021-12-09 02:49:55,947][okr_function.py-okr_submit:183][INFO][123145387732992] - Modification submit: bamboo
+[2021-12-09 02:50:37,418][okr_function.py-delete_kr:113][WARNING][123145387732992] - Delete Key Result: bamboo
+[2021-12-09 02:50:46,092][okr_function.py-delete_kr:113][WARNING][123145387732992] - Delete Key Result: bamboo
+[2021-12-09 02:50:51,192][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:51:16,030][okr_function.py-delete_obj:136][WARNING][123145387732992] - Delete Objective: bamboo
+[2021-12-09 02:51:27,964][okr_function.py-delete_obj:136][WARNING][123145387732992] - Delete Objective: bamboo
+[2021-12-09 02:51:32,120][okr_function.py-delete_obj:136][WARNING][123145387732992] - Delete Objective: bamboo
+[2021-12-09 02:51:36,841][okr_function.py-add:30][INFO][123145387732992] - Add objective: bamboo
+[2021-12-09 02:51:40,757][okr_function.py-add:30][INFO][123145387732992] - Add objective: bamboo
+[2021-12-09 02:51:45,600][okr_function.py-add:30][INFO][123145387732992] - Add objective: bamboo
+[2021-12-09 02:51:51,515][okr_function.py-add:30][INFO][123145387732992] - Add objective: bamboo
+[2021-12-09 02:51:57,745][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:52:10,768][okr_function.py-okr_submit:183][INFO][123145387732992] - Modification submit: bamboo
+[2021-12-09 02:52:19,388][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:52:30,360][okr_function.py-okr_submit:183][INFO][123145387732992] - Modification submit: bamboo
+[2021-12-09 02:52:35,614][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:52:49,405][okr_function.py-okr_submit:183][INFO][123145387732992] - Modification submit: bamboo
+[2021-12-09 02:53:02,242][okr_function.py-enrich:73][INFO][123145387732992] - Add Key Result: bamboo
+[2021-12-09 02:53:14,912][okr_function.py-okr_submit:183][INFO][123145387732992] - Modification submit: bamboo
+[2021-12-09 02:53:47,242][group_function.py-join_submit:50][INFO][123145387732992] - Join in a group: bamboo
+[2021-12-09 02:53:56,476][group_function.py-join_submit:50][INFO][123145387732992] - Join in a group: bamboo
+[2021-12-09 02:54:06,313][group_function.py-group_submit:26][INFO][123145387732992] - Create a group: bamboo
+[2021-12-09 02:54:56,310][group_function.py-quit_submit:78][WARNING][123145387732992] - Quit a group: bamboo
+[2021-12-09 02:54:59,148][group_function.py-join_submit:50][INFO][123145387732992] - Join in a group: bamboo
+[2021-12-09 02:55:14,045][group_function.py-quit_submit:78][WARNING][123145387732992] - Quit a group: bamboo
+[2021-12-09 02:55:53,453][group_function.py-quit_submit:78][WARNING][123145387732992] - Quit a group: bamboo
+[2021-12-09 02:56:34,203][views.py-view_okr:138][INFO][123145387732992] - view ztony0712's OKR: bamboo
+[2021-12-09 02:57:17,264][views.py-view_okr:138][INFO][123145387732992] - view ztony0712's OKR: bamboo
+[2021-12-09 02:57:23,982][group_function.py-quit_submit:78][WARNING][123145392988160] - Quit a group: bamboo
+[2021-12-09 02:57:28,265][group_function.py-join_submit:50][INFO][123145387732992] - Join in a group: bamboo
+[2021-12-09 02:58:00,138][views.py-logout:25][WARNING][123145387732992] - logged out: bamboo
+[2021-12-09 02:58:16,485][login.py-login:37][WARNING][123145387732992] - Incorrect password: adore0712
+[2021-12-09 03:02:02,249][login.py-login:37][WARNING][123145387732992] - Incorrect password: bamboo
+[2021-12-09 03:02:44,496][login.py-change:124][WARNING][123145387732992] - Successful password modification: bamboo
+[2021-12-09 03:03:35,122][login.py-change:115][WARNING][123145387732992] - Incorrect old password: bamboo
+[2021-12-09 03:04:24,249][login.py-signup:81][INFO][123145387732992] - Successful registration: albert
+[2021-12-09 03:04:36,334][group_function.py-join_submit:50][INFO][123145387732992] - Join in a group: albert
+[2021-12-09 03:05:00,875][group_function.py-join_submit:50][INFO][123145387732992] - Join in a group: albert
+[2021-12-09 03:05:05,415][views.py-view_okr:138][INFO][123145387732992] - view ztony0712's OKR: albert
+[2021-12-09 03:05:13,273][views.py-view_okr:138][INFO][123145398243328] - view ztony0712's OKR: albert
+[2021-12-09 03:05:29,174][views.py-view_okr:138][INFO][123145387732992] - view bamboo's OKR: albert
+[2021-12-09 03:09:25,874][group_function.py-join_submit:50][INFO][123145400242176] - Join in a group: albert
+[2021-12-09 03:09:32,837][group_function.py-quit_submit:74][WARNING][123145400242176] - Quit a group: albert
+[2021-12-09 03:14:15,041][group_function.py-join_submit:50][INFO][123145400242176] - Join in a group: ztony0712
+[2021-12-09 03:18:16,978][group_function.py-join_submit:50][INFO][123145393229824] - Join in a group: albert
+[2021-12-09 03:18:31,435][group_function.py-quit_submit:72][WARNING][123145393229824] - Quit a group: albert
+[2021-12-09 03:18:36,284][group_function.py-quit_submit:72][WARNING][123145393229824] - Quit a group: albert
+[2021-12-09 03:18:40,341][group_function.py-quit_submit:72][WARNING][123145393229824] - Quit a group: albert
+[2021-12-09 03:34:44,624][login.py-signup:81][INFO][123145417289728] - Successful registration: ztony0712
+[2021-12-09 03:34:52,328][group_function.py-group_submit:26][INFO][123145417289728] - Create a group: ztony0712
+[2021-12-09 03:34:54,347][group_function.py-quit_submit:79][WARNING][123145417289728] - Quit a group: ztony0712
+[2021-12-09 03:35:27,848][group_function.py-join_submit:50][INFO][123145481818112] - Join in a group: ztony0712
+[2021-12-09 03:35:30,039][group_function.py-quit_submit:81][WARNING][123145481818112] - Quit a group: ztony0712
+[2021-12-09 03:35:31,421][group_function.py-join_submit:50][INFO][123145481818112] - Join in a group: ztony0712
+[2021-12-09 03:35:32,243][group_function.py-quit_submit:81][WARNING][123145481818112] - Quit a group: ztony0712
+[2021-12-09 03:35:33,081][group_function.py-join_submit:50][INFO][123145481818112] - Join in a group: ztony0712
+[2021-12-09 03:35:33,888][group_function.py-quit_submit:81][WARNING][123145481818112] - Quit a group: ztony0712
+[2021-12-09 03:36:04,221][group_function.py-join_submit:50][INFO][123145538502656] - Join in a group: ztony0712
+[2021-12-09 03:36:06,278][group_function.py-quit_submit:82][WARNING][123145538502656] - Quit a group: ztony0712
+[2021-12-09 03:36:07,651][group_function.py-join_submit:50][INFO][123145538502656] - Join in a group: ztony0712
+[2021-12-09 03:36:08,293][group_function.py-quit_submit:82][WARNING][123145538502656] - Quit a group: ztony0712
+[2021-12-09 03:36:09,112][group_function.py-join_submit:50][INFO][123145538502656] - Join in a group: ztony0712
+[2021-12-09 03:36:09,584][group_function.py-quit_submit:82][WARNING][123145538502656] - Quit a group: ztony0712
+[2021-12-09 03:37:35,870][group_function.py-join_submit:50][INFO][123145331175424] - Join in a group: ztony0712
+[2021-12-09 03:39:25,719][group_function.py-join_submit:50][INFO][123145329082368] - Join in a group: ztony0712
+[2021-12-09 03:39:27,287][group_function.py-quit_submit:85][WARNING][123145329082368] - Quit a group: ztony0712
+[2021-12-09 03:39:28,687][group_function.py-join_submit:50][INFO][123145329082368] - Join in a group: ztony0712
+[2021-12-09 03:39:29,505][group_function.py-quit_submit:85][WARNING][123145329082368] - Quit a group: ztony0712
+[2021-12-09 03:39:30,170][group_function.py-join_submit:50][INFO][123145329082368] - Join in a group: ztony0712
+[2021-12-09 03:39:30,672][group_function.py-quit_submit:85][WARNING][123145329082368] - Quit a group: ztony0712
+[2021-12-09 03:39:31,060][group_function.py-join_submit:50][INFO][123145329082368] - Join in a group: ztony0712
+[2021-12-09 03:39:31,609][group_function.py-quit_submit:85][WARNING][123145329082368] - Quit a group: ztony0712
+[2021-12-09 03:39:32,972][group_function.py-join_submit:50][INFO][123145329082368] - Join in a group: ztony0712
+[2021-12-09 03:41:32,981][group_function.py-quit_submit:85][WARNING][123145495359488] - Quit a group: ztony0712
+[2021-12-09 03:42:21,233][group_function.py-join_submit:50][INFO][123145463365632] - Join in a group: ztony0712
+[2021-12-09 03:42:22,630][group_function.py-quit_submit:86][WARNING][123145463365632] - Quit a group: ztony0712
+[2021-12-09 03:42:23,692][group_function.py-join_submit:50][INFO][123145463365632] - Join in a group: ztony0712
+[2021-12-09 03:42:24,492][group_function.py-quit_submit:86][WARNING][123145463365632] - Quit a group: ztony0712
+[2021-12-09 03:42:25,099][group_function.py-join_submit:50][INFO][123145463365632] - Join in a group: ztony0712
+[2021-12-09 03:42:25,568][group_function.py-quit_submit:86][WARNING][123145463365632] - Quit a group: ztony0712
+[2021-12-09 03:44:21,609][views.py-logout:25][WARNING][123145463365632] - logged out: ztony0712
+[2021-12-09 03:44:29,736][login.py-login:33][WARNING][123145463365632] - Successful login: ztony0712
+[2021-12-09 03:44:39,895][views.py-logout:25][WARNING][123145463365632] - logged out: ztony0712
+[2021-12-09 03:47:04,008][login.py-signup:81][INFO][123145575772160] - Successful registration: ztony0712
+[2021-12-09 03:47:11,463][group_function.py-group_submit:26][INFO][123145575772160] - Create a group: ztony0712
+[2021-12-09 03:47:13,115][group_function.py-quit_submit:86][WARNING][123145575772160] - Quit a group: ztony0712
+[2021-12-09 03:47:14,952][group_function.py-join_submit:50][INFO][123145575772160] - Join in a group: ztony0712
+[2021-12-09 03:47:15,777][group_function.py-quit_submit:86][WARNING][123145575772160] - Quit a group: ztony0712
+[2021-12-09 03:47:16,395][group_function.py-join_submit:50][INFO][123145575772160] - Join in a group: ztony0712
+[2021-12-09 03:48:01,907][group_function.py-quit_submit:86][WARNING][123145575772160] - Quit a group: ztony0712
+[2021-12-09 03:49:53,910][group_function.py-join_submit:50][INFO][123145435508736] - Join in a group: ztony0712
+[2021-12-09 03:49:54,981][group_function.py-quit_submit:83][WARNING][123145435508736] - Quit a group: ztony0712
+[2021-12-09 03:49:55,840][group_function.py-join_submit:50][INFO][123145435508736] - Join in a group: ztony0712
+[2021-12-09 03:49:56,467][group_function.py-quit_submit:83][WARNING][123145435508736] - Quit a group: ztony0712
+[2021-12-09 03:52:26,940][group_function.py-join_submit:50][INFO][123145464369152] - Join in a group: ztony0712
+[2021-12-09 03:53:11,860][group_function.py-join_submit:50][INFO][123145377710080] - Join in a group: ztony0712
+[2021-12-09 03:53:15,494][group_function.py-quit_submit:73][WARNING][123145377710080] - A group deleted: ztony0712
+[2021-12-09 03:56:13,996][login.py-login:33][WARNING][123145474772992] - Successful login: ztony0712
+[2021-12-09 03:56:20,077][group_function.py-group_submit:26][INFO][123145474772992] - Create a group: ztony0712
+[2021-12-09 03:56:25,349][group_function.py-quit_submit:77][WARNING][123145474772992] - A group deleted: ztony0712
+[2021-12-09 03:56:57,126][group_function.py-group_submit:26][INFO][123145529065472] - Create a group: ztony0712
+[2021-12-09 03:56:59,651][views.py-logout:25][WARNING][123145529065472] - logged out: ztony0712
+[2021-12-09 03:57:23,336][login.py-signup:81][INFO][123145529065472] - Successful registration: adore0712
+[2021-12-09 03:57:28,888][group_function.py-join_submit:50][INFO][123145529065472] - Join in a group: adore0712
+[2021-12-09 03:57:47,273][group_function.py-group_submit:26][INFO][123145529065472] - Create a group: adore0712
+[2021-12-09 03:57:49,425][group_function.py-quit_submit:76][WARNING][123145529065472] - A group deleted: adore0712
