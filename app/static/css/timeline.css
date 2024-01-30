@@ -115,3 +115,12 @@
         background-color: aqua;
     }
 }
+
+
+#canvasID {
+    position: fixed;
+    top: 30%;
+    left: center;
+    z-index: -1;    
+    opacity: 0.3;   
+}

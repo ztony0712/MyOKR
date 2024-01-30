@@ -1150,3 +1150,14 @@
 [2021-12-09 03:57:28,888][group_function.py-join_submit:50][INFO][123145529065472] - Join in a group: adore0712
 [2021-12-09 03:57:47,273][group_function.py-group_submit:26][INFO][123145529065472] - Create a group: adore0712
 [2021-12-09 03:57:49,425][group_function.py-quit_submit:76][WARNING][123145529065472] - A group deleted: adore0712
+[2024-01-30 16:06:12,523][login.py-login:33][WARNING][6189363200] - Successful login: ztony0712
+[2024-01-30 16:06:54,975][okr_function.py-add:30][INFO][6189363200] - Add objective: ztony0712
+[2024-01-30 16:06:58,475][okr_function.py-add:30][INFO][6189363200] - Add objective: ztony0712
+[2024-01-30 16:07:01,308][okr_function.py-add:30][INFO][6189363200] - Add objective: ztony0712
+[2024-01-30 16:07:03,967][okr_function.py-add:30][INFO][6189363200] - Add objective: ztony0712
+[2024-01-30 16:22:36,666][okr_function.py-add:30][INFO][6189363200] - Add objective: ztony0712
+[2024-01-30 16:23:40,550][okr_function.py-add:30][INFO][6189363200] - Add objective: ztony0712
+[2024-01-30 16:53:11,758][views.py-logout:25][WARNING][6189363200] - logged out: ztony0712
+[2024-01-30 17:04:20,457][login.py-login:33][WARNING][6200930304] - Successful login: ztony0712
+[2024-01-30 17:06:31,808][okr_function.py-enrich:73][INFO][6200930304] - Add Key Result: ztony0712
+[2024-01-30 17:06:47,501][okr_function.py-okr_submit:183][INFO][6200930304] - Modification submit: ztony0712
